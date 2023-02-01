@@ -1,0 +1,1058 @@
+IndicatorCode,Indicator,ValueType,ParentLocationCode,ParentLocation,Location type,SpatialDimValueCode,Location,Period type,Period,IsLatestYear,Dim1 type,Dim1,Dim1ValueCode,Dim2 type,Dim2,Dim2ValueCode,Dim3 type,Dim3,Dim3ValueCode,DataSourceDimValueCode,DataSource,FactValueNumericPrefix,FactValueNumeric,FactValueUoM,FactValueNumericLowPrefix,FactValueNumericLow,FactValueNumericHighPrefix,FactValueNumericHigh,Value,FactValueTranslationID,FactComments,Language,DateModified
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AMR,Americas,Country,BLZ,Belize,Year,2020,true,,,,,,,,,,,,,0,,,,,,0,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,EUR,Europe,Country,TJK,Tajikistan,Year,2020,true,,,,,,,,,,,,,0,,,,,,0,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,TCD,Chad,Year,2020,true,,,,,,,,,,,,,1544194,,,,,,1 544 194,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,EMR,Eastern Mediterranean,Country,SDN,Sudan,Year,2020,true,,,,,,,,,,,,,1698394,,,,,,1 698 394,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,CAF,Central African Republic,Year,2020,true,,,,,,,,,,,,,1740970,,,,,,1 740 970,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,ETH,Ethiopia,Year,2020,true,,,,,,,,,,,,,1743755,,,,,,1 743 755,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,MDG,Madagascar,Year,2020,true,,,,,,,,,,,,,1950471,,,,,,1 950 471,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,CPV,Cabo Verde,Year,2020,true,,,,,,,,,,,,,10,,,,,,10,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,BFA,Burkina Faso,Year,2020,true,,,,,,,,,,,,,10600340,,,,,,10 600 340,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,EMR,Eastern Mediterranean,Country,AFG,Afghanistan,Year,2020,true,,,,,,,,,,,,,105295,,,,,,105 295,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,WPR,Western Pacific,Country,CHN,China,Year,2020,true,,,,,,,,,,,,,1051,,,,,,1051,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,EMR,Eastern Mediterranean,Country,IRN,Iran (Islamic Republic of),Year,2020,true,,,,,,,,,,,,,1051,,,,,,1051,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AMR,Americas,Country,GTM,Guatemala,Year,2020,true,,,,,,,,,,,,,1058,,,,,,1058,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,MOZ,Mozambique,Year,2020,true,,,,,,,,,,,,,11318685,,,,,,11 318 685,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AMR,Americas,Country,BOL,Bolivia (Plurinational State of),Year,2020,true,,,,,,,,,,,,,12187,,,,,,12 187,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,MRT,Mauritania,Year,2020,true,,,,,,,,,,,,,12425,,,,,,12 425,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,NAM,Namibia,Year,2020,true,,,,,,,,,,,,,13636,,,,,,13 636,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,SEAR,South-East Asia,Country,TLS,Timor-Leste,Year,2020,true,,,,,,,,,,,,,14,,,,,,14,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,UGA,Uganda,Year,2020,true,,,,,,,,,,,,,14196657,,,,,,14 196 657,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AMR,Americas,Country,CRI,Costa Rica,Year,2020,true,,,,,,,,,,,,,141,,,,,,141,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,WPR,Western Pacific,Country,VNM,Viet Nam,Year,2020,true,,,,,,,,,,,,,1422,,,,,,1422,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AMR,Americas,Country,BRA,Brazil,Year,2020,true,,,,,,,,,,,,,145188,,,,,,145 188,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AMR,Americas,Country,PER,Peru,Year,2020,true,,,,,,,,,,,,,15847,,,,,,15 847,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,WPR,Western Pacific,Country,KHM,Cambodia,Year,2020,true,,,,,,,,,,,,,15891,,,,,,15 891,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,EMR,Eastern Mediterranean,Country,YEM,Yemen,Year,2020,true,,,,,,,,,,,,,164066,,,,,,164 066,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AMR,Americas,Country,GUY,Guyana,Year,2020,true,,,,,,,,,,,,,17230,,,,,,17 230,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,NGA,Nigeria,Year,2020,true,,,,,,,,,,,,,18325240,,,,,,18 325 240,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,SEAR,South-East Asia,Country,PRK,Democratic People's Republic of Korea,Year,2020,true,,,,,,,,,,,,,1819,,,,,,1819,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,SEAR,South-East Asia,Country,IND,India,Year,2020,true,,,,,,,,,,,,,186532,,,,,,186 532,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,STP,Sao Tome and Principe,Year,2020,true,,,,,,,,,,,,,1944,,,,,,1944,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,EUR,Europe,Country,UZB,Uzbekistan,Year,2020,true,,,,,,,,,,,,,2,,,,,,2,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,GIN,Guinea,Year,2020,true,,,,,,,,,,,,,2008976,,,,,,2 008 976,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,RWA,Rwanda,Year,2020,true,,,,,,,,,,,,,2043392,,,,,,2 043 392,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,BEN,Benin,Year,2020,true,,,,,,,,,,,,,2516465,,,,,,2 516 465,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,MLI,Mali,Year,2020,true,,,,,,,,,,,,,2666266,,,,,,2 666 266,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,CMR,Cameroon,Year,2020,true,,,,,,,,,,,,,2890193,,,,,,2 890 193,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AMR,Americas,Country,ECU,Ecuador,Year,2020,true,,,,,,,,,,,,,2001,,,,,,2001,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,COD,Democratic Republic of the Congo,Year,2020,true,,,,,,,,,,,,,22590647,,,,,,22 590 647,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AMR,Americas,Country,HTI,Haiti,Year,2020,true,,,,,,,,,,,,,22987,,,,,,22 987,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AMR,Americas,Country,PAN,Panama,Year,2020,true,,,,,,,,,,,,,2203,,,,,,2203,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AMR,Americas,Country,SUR,Suriname,Year,2020,true,,,,,,,,,,,,,244,,,,,,244,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AMR,Americas,Country,NIC,Nicaragua,Year,2020,true,,,,,,,,,,,,,25530,,,,,,25 530,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,SEAR,South-East Asia,Country,IDN,Indonesia,Year,2020,true,,,,,,,,,,,,,254055,,,,,,254 055,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,EMR,Eastern Mediterranean,Country,SOM,Somalia,Year,2020,true,,,,,,,,,,,,,27333,,,,,,27 333,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,DZA,Algeria,Year,2020,true,,,,,,,,,,,,,2726,,,,,,2726,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AMR,Americas,Country,VEN,Venezuela (Bolivarian Republic of),Year,2020,true,,,,,,,,,,,,,273126,,,,,,273 126,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,WPR,Western Pacific,Country,MYS,Malaysia,Year,2020,true,,,,,,,,,,,,,2839,,,,,,2839,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,EUR,Europe,Country,ARM,Armenia,Year,2020,true,,,,,,,,,,,,,3,,,,,,3,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,KEN,Kenya,Year,2020,true,,,,,,,,,,,,,3659170,,,,,,3 659 170,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,SEAR,South-East Asia,Country,LKA,Sri Lanka,Year,2020,true,,,,,,,,,,,,,30,,,,,,30,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,SWZ,Eswatini,Year,2020,true,,,,,,,,,,,,,325,,,,,,325,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,WPR,Western Pacific,Country,LAO,Lao People's Democratic Republic,Year,2020,true,,,,,,,,,,,,,3498,,,,,,3498,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,EMR,Eastern Mediterranean,Country,SAU,Saudi Arabia,Year,2020,true,,,,,,,,,,,,,3658,,,,,,3658,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AMR,Americas,Country,MEX,Mexico,Year,2020,true,,,,,,,,,,,,,369,,,,,,369,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,EMR,Eastern Mediterranean,Country,PAK,Pakistan,Year,2020,true,,,,,,,,,,,,,371828,,,,,,371 828,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,WPR,Western Pacific,Country,KOR,Republic of Korea,Year,2020,true,,,,,,,,,,,,,386,,,,,,386,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,SEAR,South-East Asia,Country,THA,Thailand,Year,2020,true,,,,,,,,,,,,,3940,,,,,,3940,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,EUR,Europe,Country,GEO,Georgia,Year,2020,true,,,,,,,,,,,,,4,,,,,,4,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,NER,Niger,Year,2020,true,,,,,,,,,,,,,4377938,,,,,,4 377 938,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,BDI,Burundi,Year,2020,true,,,,,,,,,,,,,4720103,,,,,,4 720 103,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,CIV,Côte d’Ivoire,Year,2020,true,,,,,,,,,,,,,4980640,,,,,,4 980 640,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,SEAR,South-East Asia,Country,NPL,Nepal,Year,2020,true,,,,,,,,,,,,,430,,,,,,430,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,SEN,Senegal,Year,2020,true,,,,,,,,,,,,,445313,,,,,,445 313,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,ZWE,Zimbabwe,Year,2020,true,,,,,,,,,,,,,447381,,,,,,447 381,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,COM,Comoros,Year,2020,true,,,,,,,,,,,,,4546,,,,,,4546,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,GHA,Ghana,Year,2020,true,,,,,,,,,,,,,5447563,,,,,,5 447 563,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,TZA,United Republic of Tanzania,Year,2020,true,,,,,,,,,,,,,5977913,,,,,,5 977 913,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,WPR,Western Pacific,Country,VUT,Vanuatu,Year,2020,true,,,,,,,,,,,,,507,,,,,,507,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,GAB,Gabon,Year,2020,true,,,,,,,,,,,,,53659,,,,,,53 659,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,SEAR,South-East Asia,Country,BTN,Bhutan,Year,2020,true,,,,,,,,,,,,,54,,,,,,54,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,SEAR,South-East Asia,Country,MMR,Myanmar,Year,2020,true,,,,,,,,,,,,,58836,,,,,,58 836,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,AGO,Angola,Year,2020,true,,,,,,,,,,,,,6599327,,,,,,6 599 327,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,WPR,Western Pacific,Country,PHL,Philippines,Year,2020,true,,,,,,,,,,,,,6120,,,,,,6120,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,SEAR,South-East Asia,Country,BGD,Bangladesh,Year,2020,true,,,,,,,,,,,,,6130,,,,,,6130,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,SSD,South Sudan,Year,2020,true,,,,,,,,,,,,,661922,,,,,,661 922,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,MWI,Malawi,Year,2020,true,,,,,,,,,,,,,7139065,,,,,,7 139 065,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,SLE,Sierra Leone,Year,2020,true,,,,,,,,,,,,,725006,,,,,,725 006,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,EMR,Eastern Mediterranean,Country,DJI,Djibouti,Year,2020,true,,,,,,,,,,,,,73535,,,,,,73 535,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,ERI,Eritrea,Year,2020,true,,,,,,,,,,,,,74041,,,,,,74 041,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,GMB,Gambia,Year,2020,true,,,,,,,,,,,,,75801,,,,,,75 801,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,WPR,Western Pacific,Country,PNG,Papua New Guinea,Year,2020,true,,,,,,,,,,,,,750254,,,,,,750 254,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AMR,Americas,Country,COL,Colombia,Year,2020,true,,,,,,,,,,,,,76236,,,,,,76 236,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,WPR,Western Pacific,Country,SLB,Solomon Islands,Year,2020,true,,,,,,,,,,,,,77637,,,,,,77 637,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,ZMB,Zambia,Year,2020,true,,,,,,,,,,,,,8121215,,,,,,8 121 215,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,ZAF,South Africa,Year,2020,true,,,,,,,,,,,,,8126,,,,,,8126,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AMR,Americas,Country,DOM,Dominican Republic,Year,2020,true,,,,,,,,,,,,,829,,,,,,829,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,COG,Congo,Year,2020,true,,,,,,,,,,,,,91538,,,,,,91 538,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AMR,Americas,Country,HND,Honduras,Year,2020,true,,,,,,,,,,,,,913,,,,,,913,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,BWA,Botswana,Year,2020,true,,,,,,,,,,,,,953,,,,,,953,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AMR,Americas,Country,ARG,Argentina,Year,2019,true,,,,,,,,,,,,,0,,,,,,0,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,EUR,Europe,Country,AZE,Azerbaijan,Year,2019,true,,,,,,,,,,,,,0,,,,,,0,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AMR,Americas,Country,PRY,Paraguay,Year,2019,true,,,,,,,,,,,,,0,,,,,,0,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,EUR,Europe,Country,KGZ,Kyrgyzstan,Year,2019,true,,,,,,,,,,,,,1,,,,,,1,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,EUR,Europe,Country,UZB,Uzbekistan,Year,2019,false,,,,,,,,,,,,,1,,,,,,1,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,TCD,Chad,Year,2019,false,,,,,,,,,,,,,1632529,,,,,,1 632 529,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,EMR,Eastern Mediterranean,Country,SDN,Sudan,Year,2019,false,,,,,,,,,,,,,1752011,,,,,,1 752 011,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,SLE,Sierra Leone,Year,2019,false,,,,,,,,,,,,,1799466,,,,,,1 799 466,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,SSD,South Sudan,Year,2019,false,,,,,,,,,,,,,1903742,,,,,,1 903 742,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AMR,Americas,Country,HTI,Haiti,Year,2019,false,,,,,,,,,,,,,10687,,,,,,10 687,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,DZA,Algeria,Year,2019,false,,,,,,,,,,,,,1014,,,,,,1014,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,MOZ,Mozambique,Year,2019,false,,,,,,,,,,,,,11734926,,,,,,11 734 926,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,COG,Congo,Year,2019,false,,,,,,,,,,,,,117837,,,,,,117 837,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,EMR,Eastern Mediterranean,Country,IRN,Iran (Islamic Republic of),Year,2019,false,,,,,,,,,,,,,1190,,,,,,1190,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AMR,Americas,Country,NIC,Nicaragua,Year,2019,false,,,,,,,,,,,,,13226,,,,,,13 226,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,ZAF,South Africa,Year,2019,false,,,,,,,,,,,,,13833,,,,,,13 833,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,UGA,Uganda,Year,2019,false,,,,,,,,,,,,,13982362,,,,,,13 982 362,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AMR,Americas,Country,DOM,Dominican Republic,Year,2019,false,,,,,,,,,,,,,1314,,,,,,1314,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,MRT,Mauritania,Year,2019,false,,,,,,,,,,,,,14869,,,,,,14 869,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AMR,Americas,Country,CRI,Costa Rica,Year,2019,false,,,,,,,,,,,,,145,,,,,,145,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AMR,Americas,Country,BRA,Brazil,Year,2019,false,,,,,,,,,,,,,157454,,,,,,157 454,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AMR,Americas,Country,PAN,Panama,Year,2019,false,,,,,,,,,,,,,1597,,,,,,1597,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,GNB,Guinea-Bissau,Year,2019,true,,,,,,,,,,,,,160907,,,,,,160 907,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,EMR,Eastern Mediterranean,Country,YEM,Yemen,Year,2019,false,,,,,,,,,,,,,165899,,,,,,165 899,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,SEAR,South-East Asia,Country,BGD,Bangladesh,Year,2019,false,,,,,,,,,,,,,17225,,,,,,17 225,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,COM,Comoros,Year,2019,false,,,,,,,,,,,,,17697,,,,,,17 697,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,EMR,Eastern Mediterranean,Country,AFG,Afghanistan,Year,2019,false,,,,,,,,,,,,,173860,,,,,,173 860,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AMR,Americas,Country,GUY,Guyana,Year,2019,false,,,,,,,,,,,,,18826,,,,,,18 826,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,SEAR,South-East Asia,Country,PRK,Democratic People's Republic of Korea,Year,2019,false,,,,,,,,,,,,,1869,,,,,,1869,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,NGA,Nigeria,Year,2019,false,,,,,,,,,,,,,19806915,,,,,,19 806 915,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AMR,Americas,Country,ECU,Ecuador,Year,2019,false,,,,,,,,,,,,,1909,,,,,,1909,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AMR,Americas,Country,BLZ,Belize,Year,2019,false,,,,,,,,,,,,,2,,,,,,2,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,GIN,Guinea,Year,2019,false,,,,,,,,,,,,,2143225,,,,,,2 143 225,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,TGO,Togo,Year,2019,true,,,,,,,,,,,,,2406091,,,,,,2 406 091,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,CAF,Central African Republic,Year,2019,false,,,,,,,,,,,,,2416960,,,,,,2 416 960,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,CMR,Cameroon,Year,2019,false,,,,,,,,,,,,,2819803,,,,,,2 819 803,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,BEN,Benin,Year,2019,false,,,,,,,,,,,,,2895878,,,,,,2 895 878,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,COD,Democratic Republic of the Congo,Year,2019,false,,,,,,,,,,,,,20480310,,,,,,20 480 310,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AMR,Americas,Country,GTM,Guatemala,Year,2019,false,,,,,,,,,,,,,2072,,,,,,2072,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AMR,Americas,Country,SUR,Suriname,Year,2019,false,,,,,,,,,,,,,215,,,,,,215,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,EMR,Eastern Mediterranean,Country,SAU,Saudi Arabia,Year,2019,false,,,,,,,,,,,,,2152,,,,,,2152,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AMR,Americas,Country,PER,Peru,Year,2019,false,,,,,,,,,,,,,24324,,,,,,24 324,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,WPR,Western Pacific,Country,CHN,China,Year,2019,false,,,,,,,,,,,,,2481,,,,,,2481,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,GNQ,Equatorial Guinea,Year,2019,true,,,,,,,,,,,,,25904,,,,,,25 904,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,SEAR,South-East Asia,Country,IDN,Indonesia,Year,2019,false,,,,,,,,,,,,,250644,,,,,,250 644,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,BWA,Botswana,Year,2019,false,,,,,,,,,,,,,272,,,,,,272,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,STP,Sao Tome and Principe,Year,2019,false,,,,,,,,,,,,,2742,,,,,,2742,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AMR,Americas,Country,SLV,El Salvador,Year,2019,true,,,,,,,,,,,,,3,,,,,,3,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,EUR,Europe,Country,TJK,Tajikistan,Year,2019,false,,,,,,,,,,,,,3,,,,,,3,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,MLI,Mali,Year,2019,false,,,,,,,,,,,,,3221535,,,,,,3 221 535,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,RWA,Rwanda,Year,2019,false,,,,,,,,,,,,,3612822,,,,,,3 612 822,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,NER,Niger,Year,2019,false,,,,,,,,,,,,,3771451,,,,,,3 771 451,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,ZWE,Zimbabwe,Year,2019,false,,,,,,,,,,,,,308173,,,,,,308 173,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,WPR,Western Pacific,Country,KHM,Cambodia,Year,2019,false,,,,,,,,,,,,,32197,,,,,,32 197,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,SEAR,South-East Asia,Country,IND,India,Year,2019,false,,,,,,,,,,,,,338494,,,,,,338 494,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,NAM,Namibia,Year,2019,false,,,,,,,,,,,,,3440,,,,,,3440,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,SEN,Senegal,Year,2019,false,,,,,,,,,,,,,354708,,,,,,354 708,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,EMR,Eastern Mediterranean,Country,SOM,Somalia,Year,2019,false,,,,,,,,,,,,,39687,,,,,,39 687,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AMR,Americas,Country,HND,Honduras,Year,2019,false,,,,,,,,,,,,,391,,,,,,391,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,WPR,Western Pacific,Country,MYS,Malaysia,Year,2019,false,,,,,,,,,,,,,3941,,,,,,3941,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,CPV,Cabo Verde,Year,2019,false,,,,,,,,,,,,,40,,,,,,40,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,EMR,Eastern Mediterranean,Country,PAK,Pakistan,Year,2019,false,,,,,,,,,,,,,413533,,,,,,413 533,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,SEAR,South-East Asia,Country,BTN,Bhutan,Year,2019,false,,,,,,,,,,,,,42,,,,,,42,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,WPR,Western Pacific,Country,VNM,Viet Nam,Year,2019,false,,,,,,,,,,,,,4765,,,,,,4765,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,EMR,Eastern Mediterranean,Country,DJI,Djibouti,Year,2019,false,,,,,,,,,,,,,49402,,,,,,49 402,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AMR,Americas,Country,VEN,Venezuela (Bolivarian Republic of),Year,2019,false,,,,,,,,,,,,,492753,,,,,,492 753,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,KEN,Kenya,Year,2019,false,,,,,,,,,,,,,5019389,,,,,,5 019 389,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,ZMB,Zambia,Year,2019,false,,,,,,,,,,,,,5147350,,,,,,5 147 350,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,MWI,Malawi,Year,2019,false,,,,,,,,,,,,,5184107,,,,,,5 184 107,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,BFA,Burkina Faso,Year,2019,false,,,,,,,,,,,,,5877426,,,,,,5 877 426,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,TZA,United Republic of Tanzania,Year,2019,false,,,,,,,,,,,,,5913584,,,,,,5 913 584,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,CIV,Côte d’Ivoire,Year,2019,false,,,,,,,,,,,,,5935178,,,,,,5 935 178,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,SEAR,South-East Asia,Country,LKA,Sri Lanka,Year,2019,false,,,,,,,,,,,,,53,,,,,,53,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,GAB,Gabon,Year,2019,false,,,,,,,,,,,,,53182,,,,,,53 182,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,GMB,Gambia,Year,2019,false,,,,,,,,,,,,,53386,,,,,,53 386,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,SEAR,South-East Asia,Country,THA,Thailand,Year,2019,false,,,,,,,,,,,,,5421,,,,,,5421,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,WPR,Western Pacific,Country,KOR,Republic of Korea,Year,2019,false,,,,,,,,,,,,,559,,,,,,559,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,SEAR,South-East Asia,Country,MMR,Myanmar,Year,2019,false,,,,,,,,,,,,,56640,,,,,,56 640,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,WPR,Western Pacific,Country,VUT,Vanuatu,Year,2019,false,,,,,,,,,,,,,576,,,,,,576,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,SWZ,Eswatini,Year,2019,false,,,,,,,,,,,,,577,,,,,,577,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,WPR,Western Pacific,Country,PHL,Philippines,Year,2019,false,,,,,,,,,,,,,5778,,,,,,5778,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,GHA,Ghana,Year,2019,false,,,,,,,,,,,,,6115267,,,,,,6 115 267,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AMR,Americas,Country,MEX,Mexico,Year,2019,false,,,,,,,,,,,,,641,,,,,,641,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,WPR,Western Pacific,Country,PNG,Papua New Guinea,Year,2019,false,,,,,,,,,,,,,646648,,,,,,646 648,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,WPR,Western Pacific,Country,LAO,Lao People's Democratic Republic,Year,2019,false,,,,,,,,,,,,,6692,,,,,,6692,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,AGO,Angola,Year,2019,false,,,,,,,,,,,,,7054978,,,,,,7 054 978,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,SEAR,South-East Asia,Country,NPL,Nepal,Year,2019,false,,,,,,,,,,,,,710,,,,,,710,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,WPR,Western Pacific,Country,SLB,Solomon Islands,Year,2019,false,,,,,,,,,,,,,72767,,,,,,72 767,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,EUR,Europe,Country,GEO,Georgia,Year,2019,false,,,,,,,,,,,,,8,,,,,,8,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AMR,Americas,Country,COL,Colombia,Year,2019,false,,,,,,,,,,,,,80415,,,,,,80 415,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,SEAR,South-East Asia,Country,TLS,Timor-Leste,Year,2019,false,,,,,,,,,,,,,9,,,,,,9,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,BDI,Burundi,Year,2019,false,,,,,,,,,,,,,9959533,,,,,,9 959 533,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,ETH,Ethiopia,Year,2019,false,,,,,,,,,,,,,904495,,,,,,904 495,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,LBR,Liberia,Year,2019,true,,,,,,,,,,,,,915845,,,,,,915 845,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,ERI,Eritrea,Year,2019,false,,,,,,,,,,,,,93878,,,,,,93 878,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AMR,Americas,Country,BOL,Bolivia (Plurinational State of),Year,2019,false,,,,,,,,,,,,,9357,,,,,,9357,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,MDG,Madagascar,Year,2019,false,,,,,,,,,,,,,970828,,,,,,970 828,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,EUR,Europe,Country,KGZ,Kyrgyzstan,Year,2018,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AMR,Americas,Country,PRY,Paraguay,Year,2018,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,EUR,Europe,Country,UZB,Uzbekistan,Year,2018,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,EUR,Europe,Country,TJK,Tajikistan,Year,2018,false,,,,,,,,,,,,,1,,,,,,1,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,GIN,Guinea,Year,2018,false,,,,,,,,,,,,,1214996,,,,,,1 214 996,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,TCD,Chad,Year,2018,false,,,,,,,,,,,,,1364706,,,,,,1 364 706,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,EMR,Eastern Mediterranean,Country,SDN,Sudan,Year,2018,false,,,,,,,,,,,,,1638017,,,,,,1 638 017,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,SLE,Sierra Leone,Year,2018,false,,,,,,,,,,,,,1733831,,,,,,1 733 831,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,BEN,Benin,Year,2018,false,,,,,,,,,,,,,1975812,,,,,,1 975 812,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,BFA,Burkina Faso,Year,2018,false,,,,,,,,,,,,,10278970,,,,,,10 278 970,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,MOZ,Mozambique,Year,2018,false,,,,,,,,,,,,,10304472,,,,,,10 304 472,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,SEAR,South-East Asia,Country,BGD,Bangladesh,Year,2018,false,,,,,,,,,,,,,10523,,,,,,10 523,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,ZAF,South Africa,Year,2018,false,,,,,,,,,,,,,10789,,,,,,10 789,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AMR,Americas,Country,CRI,Costa Rica,Year,2018,false,,,,,,,,,,,,,108,,,,,,108,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,GAB,Gabon,Year,2018,false,,,,,,,,,,,,,111719,,,,,,111 719,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,COG,Congo,Year,2018,false,,,,,,,,,,,,,116903,,,,,,116 903,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,SEAR,South-East Asia,Country,NPL,Nepal,Year,2018,false,,,,,,,,,,,,,1192,,,,,,1192,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,DZA,Algeria,Year,2018,false,,,,,,,,,,,,,1242,,,,,,1242,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,NGA,Nigeria,Year,2018,false,,,,,,,,,,,,,14548024,,,,,,14 548 024,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,COM,Comoros,Year,2018,false,,,,,,,,,,,,,15613,,,,,,15 613,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AMR,Americas,Country,NIC,Nicaragua,Year,2018,false,,,,,,,,,,,,,15934,,,,,,15 934,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,EMR,Eastern Mediterranean,Country,YEM,Yemen,Year,2018,false,,,,,,,,,,,,,157900,,,,,,157 900,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,COD,Democratic Republic of the Congo,Year,2018,false,,,,,,,,,,,,,16972207,,,,,,16 972 207,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AMR,Americas,Country,GUY,Guyana,Year,2018,false,,,,,,,,,,,,,17038,,,,,,17 038,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,GNB,Guinea-Bissau,Year,2018,false,,,,,,,,,,,,,171075,,,,,,171 075,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AMR,Americas,Country,ECU,Ecuador,Year,2018,false,,,,,,,,,,,,,1806,,,,,,1806,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AMR,Americas,Country,BRA,Brazil,Year,2018,false,,,,,,,,,,,,,194573,,,,,,194 573,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,EUR,Europe,Country,AZE,Azerbaijan,Year,2018,false,,,,,,,,,,,,,2,,,,,,2,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AMR,Americas,Country,SLV,El Salvador,Year,2018,false,,,,,,,,,,,,,2,,,,,,2,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,TGO,Togo,Year,2018,false,,,,,,,,,,,,,2002877,,,,,,2 002 877,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,CMR,Cameroon,Year,2018,false,,,,,,,,,,,,,2257633,,,,,,2 257 633,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,KEN,Kenya,Year,2018,false,,,,,,,,,,,,,2318090,,,,,,2 318 090,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,MLI,Mali,Year,2018,false,,,,,,,,,,,,,2345475,,,,,,2 345 475,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,CPV,Cabo Verde,Year,2018,false,,,,,,,,,,,,,21,,,,,,21,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,SEAR,South-East Asia,Country,IDN,Indonesia,Year,2018,false,,,,,,,,,,,,,222136,,,,,,222 136,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AMR,Americas,Country,ARG,Argentina,Year,2018,false,,,,,,,,,,,,,23,,,,,,23,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AMR,Americas,Country,SUR,Suriname,Year,2018,false,,,,,,,,,,,,,235,,,,,,235,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,EMR,Eastern Mediterranean,Country,AFG,Afghanistan,Year,2018,false,,,,,,,,,,,,,248689,,,,,,248 689,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,EMR,Eastern Mediterranean,Country,DJI,Djibouti,Year,2018,false,,,,,,,,,,,,,25319,,,,,,25 319,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,WPR,Western Pacific,Country,CHN,China,Year,2018,false,,,,,,,,,,,,,2511,,,,,,2511,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,ZWE,Zimbabwe,Year,2018,false,,,,,,,,,,,,,264018,,,,,,264 018,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,EMR,Eastern Mediterranean,Country,SAU,Saudi Arabia,Year,2018,false,,,,,,,,,,,,,2711,,,,,,2711,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,STP,Sao Tome and Principe,Year,2018,false,,,,,,,,,,,,,2940,,,,,,2940,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,NER,Niger,Year,2018,false,,,,,,,,,,,,,3046450,,,,,,3 046 450,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,MRT,Mauritania,Year,2018,false,,,,,,,,,,,,,30609,,,,,,30 609,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AMR,Americas,Country,GTM,Guatemala,Year,2018,false,,,,,,,,,,,,,3021,,,,,,3021,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,EMR,Eastern Mediterranean,Country,SOM,Somalia,Year,2018,false,,,,,,,,,,,,,31021,,,,,,31 021,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,NAM,Namibia,Year,2018,false,,,,,,,,,,,,,36451,,,,,,36 451,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,SEAR,South-East Asia,Country,PRK,Democratic People's Republic of Korea,Year,2018,false,,,,,,,,,,,,,3698,,,,,,3698,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,EMR,Eastern Mediterranean,Country,PAK,Pakistan,Year,2018,false,,,,,,,,,,,,,374510,,,,,,374 510,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,RWA,Rwanda,Year,2018,false,,,,,,,,,,,,,4231883,,,,,,4 231 883,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,CIV,Côte d’Ivoire,Year,2018,false,,,,,,,,,,,,,4766477,,,,,,4 766 477,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,GHA,Ghana,Year,2018,false,,,,,,,,,,,,,4931454,,,,,,4 931 454,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,BDI,Burundi,Year,2018,false,,,,,,,,,,,,,4966511,,,,,,4 966 511,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,SEAR,South-East Asia,Country,IND,India,Year,2018,false,,,,,,,,,,,,,429928,,,,,,429 928,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AMR,Americas,Country,PER,Peru,Year,2018,false,,,,,,,,,,,,,45619,,,,,,45 619,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,ERI,Eritrea,Year,2018,false,,,,,,,,,,,,,46440,,,,,,46 440,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,WPR,Western Pacific,Country,MYS,Malaysia,Year,2018,false,,,,,,,,,,,,,4630,,,,,,4630,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,WPR,Western Pacific,Country,PHL,Philippines,Year,2018,false,,,,,,,,,,,,,4641,,,,,,4641,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,SEAR,South-East Asia,Country,LKA,Sri Lanka,Year,2018,false,,,,,,,,,,,,,48,,,,,,48,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,WPR,Western Pacific,Country,VNM,Viet Nam,Year,2018,false,,,,,,,,,,,,,4813,,,,,,4813,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AMR,Americas,Country,DOM,Dominican Republic,Year,2018,false,,,,,,,,,,,,,484,,,,,,484,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,ZMB,Zambia,Year,2018,false,,,,,,,,,,,,,5039679,,,,,,5 039 679,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,AGO,Angola,Year,2018,false,,,,,,,,,,,,,5150575,,,,,,5 150 575,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,UGA,Uganda,Year,2018,false,,,,,,,,,,,,,5759174,,,,,,5 759 174,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,MWI,Malawi,Year,2018,false,,,,,,,,,,,,,5865476,,,,,,5 865 476,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,WPR,Western Pacific,Country,PNG,Papua New Guinea,Year,2018,false,,,,,,,,,,,,,516249,,,,,,516 249,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AMR,Americas,Country,VEN,Venezuela (Bolivarian Republic of),Year,2018,false,,,,,,,,,,,,,522059,,,,,,522 059,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,SEN,Senegal,Year,2018,false,,,,,,,,,,,,,530944,,,,,,530 944,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AMR,Americas,Country,BOL,Bolivia (Plurinational State of),Year,2018,false,,,,,,,,,,,,,5354,,,,,,5354,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,SEAR,South-East Asia,Country,BTN,Bhutan,Year,2018,false,,,,,,,,,,,,,54,,,,,,54,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,WPR,Western Pacific,Country,KOR,Republic of Korea,Year,2018,false,,,,,,,,,,,,,576,,,,,,576,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,BWA,Botswana,Year,2018,false,,,,,,,,,,,,,585,,,,,,585,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,WPR,Western Pacific,Country,SLB,Solomon Islands,Year,2018,false,,,,,,,,,,,,,59191,,,,,,59 191,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,EUR,Europe,Country,ARM,Armenia,Year,2018,false,,,,,,,,,,,,,6,,,,,,6,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,TZA,United Republic of Tanzania,Year,2018,false,,,,,,,,,,,,,6053714,,,,,,6 053 714,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,WPR,Western Pacific,Country,KHM,Cambodia,Year,2018,false,,,,,,,,,,,,,62582,,,,,,62 582,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,EMR,Eastern Mediterranean,Country,IRN,Iran (Islamic Republic of),Year,2018,false,,,,,,,,,,,,,625,,,,,,625,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AMR,Americas,Country,COL,Colombia,Year,2018,false,,,,,,,,,,,,,63143,,,,,,63 143,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,WPR,Western Pacific,Country,VUT,Vanuatu,Year,2018,false,,,,,,,,,,,,,644,,,,,,644,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AMR,Americas,Country,HND,Honduras,Year,2018,false,,,,,,,,,,,,,653,,,,,,653,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,SEAR,South-East Asia,Country,THA,Thailand,Year,2018,false,,,,,,,,,,,,,6750,,,,,,6750,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AMR,Americas,Country,BLZ,Belize,Year,2018,false,,,,,,,,,,,,,7,,,,,,7,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AMR,Americas,Country,PAN,Panama,Year,2018,false,,,,,,,,,,,,,715,,,,,,715,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,SEAR,South-East Asia,Country,MMR,Myanmar,Year,2018,false,,,,,,,,,,,,,76518,,,,,,76 518,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,SEAR,South-East Asia,Country,TLS,Timor-Leste,Year,2018,false,,,,,,,,,,,,,8,,,,,,8,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AMR,Americas,Country,MEX,Mexico,Year,2018,false,,,,,,,,,,,,,826,,,,,,826,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,GMB,Gambia,Year,2018,false,,,,,,,,,,,,,87448,,,,,,87 448,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AMR,Americas,Country,HTI,Haiti,Year,2018,false,,,,,,,,,,,,,8828,,,,,,8828,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,GNQ,Equatorial Guinea,Year,2018,false,,,,,,,,,,,,,8962,,,,,,8962,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,EUR,Europe,Country,GEO,Georgia,Year,2018,false,,,,,,,,,,,,,9,,,,,,9,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,WPR,Western Pacific,Country,LAO,Lao People's Democratic Republic,Year,2018,false,,,,,,,,,,,,,9038,,,,,,9038,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,SWZ,Eswatini,Year,2018,false,,,,,,,,,,,,,957,,,,,,957,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,ETH,Ethiopia,Year,2018,false,,,,,,,,,,,,,962087,,,,,,962 087,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,CAF,Central African Republic,Year,2018,false,,,,,,,,,,,,,972119,,,,,,972 119,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,MDG,Madagascar,Year,2018,false,,,,,,,,,,,,,972790,,,,,,972 790,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,SSD,South Sudan,Year,2018,false,,,,,,,,,,,,,98843,,,,,,98 843,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,EUR,Europe,Country,UZB,Uzbekistan,Year,2017,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,EUR,Europe,Country,AZE,Azerbaijan,Year,2017,false,,,,,,,,,,,,,1,,,,,,1,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,LBR,Liberia,Year,2017,false,,,,,,,,,,,,,1093115,,,,,,1 093 115,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,GIN,Guinea,Year,2017,false,,,,,,,,,,,,,1335323,,,,,,1 335 323,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,SSD,South Sudan,Year,2017,false,,,,,,,,,,,,,1488005,,,,,,1 488 005,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,ETH,Ethiopia,Year,2017,false,,,,,,,,,,,,,1530739,,,,,,1 530 739,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,SLE,Sierra Leone,Year,2017,false,,,,,,,,,,,,,1651236,,,,,,1 651 236,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,TGO,Togo,Year,2017,false,,,,,,,,,,,,,1756582,,,,,,1 756 582,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,BEN,Benin,Year,2017,false,,,,,,,,,,,,,1933912,,,,,,1 933 912,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,TCD,Chad,Year,2017,false,,,,,,,,,,,,,1962372,,,,,,1 962 372,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,BFA,Burkina Faso,Year,2017,false,,,,,,,,,,,,,10557260,,,,,,10 557 260,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AMR,Americas,Country,NIC,Nicaragua,Year,2017,false,,,,,,,,,,,,,10952,,,,,,10 952,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,SEAR,South-East Asia,Country,THA,Thailand,Year,2017,false,,,,,,,,,,,,,11440,,,,,,11 440,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,UGA,Uganda,Year,2017,false,,,,,,,,,,,,,11667831,,,,,,11 667 831,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,SWZ,Eswatini,Year,2017,false,,,,,,,,,,,,,1127,,,,,,1127,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,WPR,Western Pacific,Country,VUT,Vanuatu,Year,2017,false,,,,,,,,,,,,,1228,,,,,,1228,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,COG,Congo,Year,2017,false,,,,,,,,,,,,,127939,,,,,,127 939,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AMR,Americas,Country,HND,Honduras,Year,2017,false,,,,,,,,,,,,,1283,,,,,,1283,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,NGA,Nigeria,Year,2017,false,,,,,,,,,,,,,13087878,,,,,,13 087 878,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AMR,Americas,Country,GUY,Guyana,Year,2017,false,,,,,,,,,,,,,13936,,,,,,13 936,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AMR,Americas,Country,ECU,Ecuador,Year,2017,false,,,,,,,,,,,,,1380,,,,,,1380,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,EMR,Eastern Mediterranean,Country,DJI,Djibouti,Year,2017,false,,,,,,,,,,,,,14810,,,,,,14 810,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,EMR,Eastern Mediterranean,Country,YEM,Yemen,Year,2017,false,,,,,,,,,,,,,143333,,,,,,143 333,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,GNQ,Equatorial Guinea,Year,2017,false,,,,,,,,,,,,,15725,,,,,,15 725,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,GNB,Guinea-Bissau,Year,2017,false,,,,,,,,,,,,,152619,,,,,,152 619,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,COD,Democratic Republic of the Congo,Year,2017,false,,,,,,,,,,,,,16793002,,,,,,16 793 002,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,SEAR,South-East Asia,Country,NPL,Nepal,Year,2017,false,,,,,,,,,,,,,1742,,,,,,1742,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AMR,Americas,Country,ARG,Argentina,Year,2017,false,,,,,,,,,,,,,18,,,,,,18,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AMR,Americas,Country,HTI,Haiti,Year,2017,false,,,,,,,,,,,,,19135,,,,,,19 135,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,BWA,Botswana,Year,2017,false,,,,,,,,,,,,,1909,,,,,,1909,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AMR,Americas,Country,BRA,Brazil,Year,2017,false,,,,,,,,,,,,,194425,,,,,,194 425,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,EUR,Europe,Country,ARM,Armenia,Year,2017,false,,,,,,,,,,,,,2,,,,,,2,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,EUR,Europe,Country,KGZ,Kyrgyzstan,Year,2017,false,,,,,,,,,,,,,2,,,,,,2,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,CMR,Cameroon,Year,2017,false,,,,,,,,,,,,,2244788,,,,,,2 244 788,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,MLI,Mali,Year,2017,false,,,,,,,,,,,,,2277218,,,,,,2 277 218,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,NER,Niger,Year,2017,false,,,,,,,,,,,,,2761268,,,,,,2 761 268,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,MRT,Mauritania,Year,2017,false,,,,,,,,,,,,,20105,,,,,,20 105,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,EUR,Europe,Country,TUR,Türkiye,Year,2017,true,,,,,,,,,,,,,214,,,,,,214,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,STP,Sao Tome and Principe,Year,2017,false,,,,,,,,,,,,,2241,,,,,,2241,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AMR,Americas,Country,CRI,Costa Rica,Year,2017,false,,,,,,,,,,,,,25,,,,,,25,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,SEAR,South-East Asia,Country,IDN,Indonesia,Year,2017,false,,,,,,,,,,,,,261617,,,,,,261 617,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,WPR,Western Pacific,Country,CHN,China,Year,2017,false,,,,,,,,,,,,,2663,,,,,,2663,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,SEAR,South-East Asia,Country,BGD,Bangladesh,Year,2017,false,,,,,,,,,,,,,29247,,,,,,29 247,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,ZAF,South Africa,Year,2017,false,,,,,,,,,,,,,29615,,,,,,29 615,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,EUR,Europe,Country,TJK,Tajikistan,Year,2017,false,,,,,,,,,,,,,3,,,,,,3,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,KEN,Kenya,Year,2017,false,,,,,,,,,,,,,3607026,,,,,,3 607 026,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,AGO,Angola,Year,2017,false,,,,,,,,,,,,,3874892,,,,,,3 874 892,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,SEAR,South-East Asia,Country,TLS,Timor-Leste,Year,2017,false,,,,,,,,,,,,,30,,,,,,30,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,EMR,Eastern Mediterranean,Country,AFG,Afghanistan,Year,2017,false,,,,,,,,,,,,,313086,,,,,,313 086,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,EMR,Eastern Mediterranean,Country,SAU,Saudi Arabia,Year,2017,false,,,,,,,,,,,,,3151,,,,,,3151,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,EMR,Eastern Mediterranean,Country,SOM,Somalia,Year,2017,false,,,,,,,,,,,,,35138,,,,,,35 138,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,GAB,Gabon,Year,2017,false,,,,,,,,,,,,,35244,,,,,,35 244,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,EMR,Eastern Mediterranean,Country,PAK,Pakistan,Year,2017,false,,,,,,,,,,,,,369817,,,,,,369 817,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,COM,Comoros,Year,2017,false,,,,,,,,,,,,,3896,,,,,,3896,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,SEN,Senegal,Year,2017,false,,,,,,,,,,,,,395706,,,,,,395 706,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AMR,Americas,Country,DOM,Dominican Republic,Year,2017,false,,,,,,,,,,,,,398,,,,,,398,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AMR,Americas,Country,SLV,El Salvador,Year,2017,false,,,,,,,,,,,,,4,,,,,,4,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,CIV,Côte d’Ivoire,Year,2017,false,,,,,,,,,,,,,4032381,,,,,,4 032 381,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,MWI,Malawi,Year,2017,false,,,,,,,,,,,,,4947443,,,,,,4 947 443,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,CAF,Central African Republic,Year,2017,false,,,,,,,,,,,,,411913,,,,,,411 913,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AMR,Americas,Country,GTM,Guatemala,Year,2017,false,,,,,,,,,,,,,4124,,,,,,4124,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,WPR,Western Pacific,Country,MYS,Malaysia,Year,2017,false,,,,,,,,,,,,,4174,,,,,,4174,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,CPV,Cabo Verde,Year,2017,false,,,,,,,,,,,,,446,,,,,,446,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,DZA,Algeria,Year,2017,false,,,,,,,,,,,,,453,,,,,,453,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,WPR,Western Pacific,Country,VNM,Viet Nam,Year,2017,false,,,,,,,,,,,,,4548,,,,,,4548,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AMR,Americas,Country,BOL,Bolivia (Plurinational State of),Year,2017,false,,,,,,,,,,,,,4587,,,,,,4587,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,SEAR,South-East Asia,Country,PRK,Democratic People's Republic of Korea,Year,2017,false,,,,,,,,,,,,,4603,,,,,,4603,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,ZWE,Zimbabwe,Year,2017,false,,,,,,,,,,,,,468276,,,,,,468 276,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,WPR,Western Pacific,Country,PNG,Papua New Guinea,Year,2017,false,,,,,,,,,,,,,488878,,,,,,488 878,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AMR,Americas,Country,PRY,Paraguay,Year,2017,false,,,,,,,,,,,,,5,,,,,,5,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,ZMB,Zambia,Year,2017,false,,,,,,,,,,,,,5505639,,,,,,5 505 639,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,TZA,United Republic of Tanzania,Year,2017,false,,,,,,,,,,,,,5744907,,,,,,5 744 907,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,RWA,Rwanda,Year,2017,false,,,,,,,,,,,,,5940533,,,,,,5 940 533,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,SEAR,South-East Asia,Country,BTN,Bhutan,Year,2017,false,,,,,,,,,,,,,51,,,,,,51,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,WPR,Western Pacific,Country,KOR,Republic of Korea,Year,2017,false,,,,,,,,,,,,,515,,,,,,515,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,WPR,Western Pacific,Country,SLB,Solomon Islands,Year,2017,false,,,,,,,,,,,,,52519,,,,,,52 519,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AMR,Americas,Country,VEN,Venezuela (Bolivarian Republic of),Year,2017,false,,,,,,,,,,,,,525897,,,,,,525 897,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,ERI,Eritrea,Year,2017,false,,,,,,,,,,,,,54005,,,,,,54 005,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AMR,Americas,Country,COL,Colombia,Year,2017,false,,,,,,,,,,,,,54102,,,,,,54 102,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AMR,Americas,Country,PER,Peru,Year,2017,false,,,,,,,,,,,,,55367,,,,,,55 367,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AMR,Americas,Country,SUR,Suriname,Year,2017,false,,,,,,,,,,,,,551,,,,,,551,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,SEAR,South-East Asia,Country,LKA,Sri Lanka,Year,2017,false,,,,,,,,,,,,,57,,,,,,57,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,NAM,Namibia,Year,2017,false,,,,,,,,,,,,,66141,,,,,,66 141,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,WPR,Western Pacific,Country,PHL,Philippines,Year,2017,false,,,,,,,,,,,,,6791,,,,,,6791,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AMR,Americas,Country,PAN,Panama,Year,2017,false,,,,,,,,,,,,,689,,,,,,689,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,GHA,Ghana,Year,2017,false,,,,,,,,,,,,,7003155,,,,,,7 003 155,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,WPR,Western Pacific,Country,KHM,Cambodia,Year,2017,false,,,,,,,,,,,,,76804,,,,,,76 804,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AMR,Americas,Country,MEX,Mexico,Year,2017,false,,,,,,,,,,,,,765,,,,,,765,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,GMB,Gambia,Year,2017,false,,,,,,,,,,,,,78040,,,,,,78 040,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,EUR,Europe,Country,GEO,Georgia,Year,2017,false,,,,,,,,,,,,,8,,,,,,8,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,BDI,Burundi,Year,2017,false,,,,,,,,,,,,,8795952,,,,,,8 795 952,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,EMR,Eastern Mediterranean,Country,SDN,Sudan,Year,2017,false,,,,,,,,,,,,,800116,,,,,,800 116,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,WPR,Western Pacific,Country,LAO,Lao People's Democratic Republic,Year,2017,false,,,,,,,,,,,,,8435,,,,,,8435,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,SEAR,South-East Asia,Country,IND,India,Year,2017,false,,,,,,,,,,,,,844558,,,,,,844 558,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,SEAR,South-East Asia,Country,MMR,Myanmar,Year,2017,false,,,,,,,,,,,,,85019,,,,,,85 019,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AMR,Americas,Country,BLZ,Belize,Year,2017,false,,,,,,,,,,,,,9,,,,,,9,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,MOZ,Mozambique,Year,2017,false,,,,,,,,,,,,,9892601,,,,,,9 892 601,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,EMR,Eastern Mediterranean,Country,IRN,Iran (Islamic Republic of),Year,2017,false,,,,,,,,,,,,,939,,,,,,939,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,MDG,Madagascar,Year,2017,false,,,,,,,,,,,,,985852,,,,,,985 852,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,EUR,Europe,Country,UZB,Uzbekistan,Year,2016,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,EUR,Europe,Country,AZE,Azerbaijan,Year,2016,false,,,,,,,,,,,,,1,,,,,,1,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,EUR,Europe,Country,TJK,Tajikistan,Year,2016,false,,,,,,,,,,,,,1,,,,,,1,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,SEAR,South-East Asia,Country,IND,India,Year,2016,false,,,,,,,,,,,,,1087285,,,,,,1 087 285,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,LBR,Liberia,Year,2016,false,,,,,,,,,,,,,1191137,,,,,,1 191 137,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,CAF,Central African Republic,Year,2016,false,,,,,,,,,,,,,1239317,,,,,,1 239 317,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,TCD,Chad,Year,2016,false,,,,,,,,,,,,,1294768,,,,,,1 294 768,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,BEN,Benin,Year,2016,false,,,,,,,,,,,,,1610790,,,,,,1 610 790,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,ETH,Ethiopia,Year,2016,false,,,,,,,,,,,,,1718504,,,,,,1 718 504,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,TGO,Togo,Year,2016,false,,,,,,,,,,,,,1746334,,,,,,1 746 334,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,SLE,Sierra Leone,Year,2016,false,,,,,,,,,,,,,1775306,,,,,,1 775 306,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AMR,Americas,Country,PRY,Paraguay,Year,2016,false,,,,,,,,,,,,,10,,,,,,10,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,SEAR,South-East Asia,Country,NPL,Nepal,Year,2016,false,,,,,,,,,,,,,1009,,,,,,1009,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AMR,Americas,Country,GUY,Guyana,Year,2016,false,,,,,,,,,,,,,11108,,,,,,11 108,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,SEAR,South-East Asia,Country,MMR,Myanmar,Year,2016,false,,,,,,,,,,,,,110146,,,,,,110 146,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AMR,Americas,Country,BRA,Brazil,Year,2016,false,,,,,,,,,,,,,129244,,,,,,129 244,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AMR,Americas,Country,CRI,Costa Rica,Year,2016,false,,,,,,,,,,,,,13,,,,,,13,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,NGA,Nigeria,Year,2016,false,,,,,,,,,,,,,13598282,,,,,,13 598 282,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,EMR,Eastern Mediterranean,Country,DJI,Djibouti,Year,2016,false,,,,,,,,,,,,,13822,,,,,,13 822,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AMR,Americas,Country,SLV,El Salvador,Year,2016,false,,,,,,,,,,,,,14,,,,,,14,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AMR,Americas,Country,ECU,Ecuador,Year,2016,false,,,,,,,,,,,,,1424,,,,,,1424,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,COM,Comoros,Year,2016,false,,,,,,,,,,,,,1467,,,,,,1467,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,GNQ,Equatorial Guinea,Year,2016,false,,,,,,,,,,,,,147714,,,,,,147 714,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,WPR,Western Pacific,Country,LAO,Lao People's Democratic Republic,Year,2016,false,,,,,,,,,,,,,15509,,,,,,15 509,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,GNB,Guinea-Bissau,Year,2016,false,,,,,,,,,,,,,156471,,,,,,156 471,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,COD,Democratic Republic of the Congo,Year,2016,false,,,,,,,,,,,,,16821130,,,,,,16 821 130,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,GMB,Gambia,Year,2016,false,,,,,,,,,,,,,162739,,,,,,162 739,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,SEAR,South-East Asia,Country,THA,Thailand,Year,2016,false,,,,,,,,,,,,,17800,,,,,,17 800,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,COG,Congo,Year,2016,false,,,,,,,,,,,,,171847,,,,,,171 847,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,EUR,Europe,Country,ARM,Armenia,Year,2016,false,,,,,,,,,,,,,2,,,,,,2,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,MLI,Mali,Year,2016,false,,,,,,,,,,,,,2311098,,,,,,2 311 098,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,CMR,Cameroon,Year,2016,false,,,,,,,,,,,,,2476153,,,,,,2 476 153,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,EUR,Europe,Country,TUR,Türkiye,Year,2016,false,,,,,,,,,,,,,208,,,,,,208,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AMR,Americas,Country,HTI,Haiti,Year,2016,false,,,,,,,,,,,,,21430,,,,,,21 430,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,SEAR,South-East Asia,Country,IDN,Indonesia,Year,2016,false,,,,,,,,,,,,,218450,,,,,,218 450,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,STP,Sao Tome and Principe,Year,2016,false,,,,,,,,,,,,,2238,,,,,,2238,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,WPR,Western Pacific,Country,VUT,Vanuatu,Year,2016,false,,,,,,,,,,,,,2252,,,,,,2252,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,GAB,Gabon,Year,2016,false,,,,,,,,,,,,,23915,,,,,,23 915,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,WPR,Western Pacific,Country,MYS,Malaysia,Year,2016,false,,,,,,,,,,,,,2349,,,,,,2349,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,ERI,Eritrea,Year,2016,false,,,,,,,,,,,,,24251,,,,,,24 251,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,NAM,Namibia,Year,2016,false,,,,,,,,,,,,,24869,,,,,,24 869,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,EMR,Eastern Mediterranean,Country,AFG,Afghanistan,Year,2016,false,,,,,,,,,,,,,241233,,,,,,241 233,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,SEAR,South-East Asia,Country,BGD,Bangladesh,Year,2016,false,,,,,,,,,,,,,27737,,,,,,27 737,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,MRT,Mauritania,Year,2016,false,,,,,,,,,,,,,29156,,,,,,29 156,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,KEN,Kenya,Year,2016,false,,,,,,,,,,,,,3064796,,,,,,3 064 796,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,RWA,Rwanda,Year,2016,false,,,,,,,,,,,,,3380568,,,,,,3 380 568,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,CIV,Côte d’Ivoire,Year,2016,false,,,,,,,,,,,,,3754504,,,,,,3 754 504,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,AGO,Angola,Year,2016,false,,,,,,,,,,,,,3794253,,,,,,3 794 253,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AMR,Americas,Country,VEN,Venezuela (Bolivarian Republic of),Year,2016,false,,,,,,,,,,,,,301466,,,,,,301 466,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,ZWE,Zimbabwe,Year,2016,false,,,,,,,,,,,,,314003,,,,,,314 003,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,WPR,Western Pacific,Country,CHN,China,Year,2016,false,,,,,,,,,,,,,3150,,,,,,3150,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,SWZ,Eswatini,Year,2016,false,,,,,,,,,,,,,317,,,,,,317,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,EMR,Eastern Mediterranean,Country,PAK,Pakistan,Year,2016,false,,,,,,,,,,,,,324466,,,,,,324 466,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AMR,Americas,Country,SUR,Suriname,Year,2016,false,,,,,,,,,,,,,327,,,,,,327,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,SEN,Senegal,Year,2016,false,,,,,,,,,,,,,349540,,,,,,349 540,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,EMR,Eastern Mediterranean,Country,SOM,Somalia,Year,2016,false,,,,,,,,,,,,,35628,,,,,,35 628,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,NER,Niger,Year,2016,false,,,,,,,,,,,,,4258110,,,,,,4 258 110,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,MWI,Malawi,Year,2016,false,,,,,,,,,,,,,4827373,,,,,,4 827 373,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,ZMB,Zambia,Year,2016,false,,,,,,,,,,,,,4851319,,,,,,4 851 319,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AMR,Americas,Country,HND,Honduras,Year,2016,false,,,,,,,,,,,,,4097,,,,,,4097,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,SEAR,South-East Asia,Country,LKA,Sri Lanka,Year,2016,false,,,,,,,,,,,,,41,,,,,,41,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,WPR,Western Pacific,Country,VNM,Viet Nam,Year,2016,false,,,,,,,,,,,,,4161,,,,,,4161,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,WPR,Western Pacific,Country,KHM,Cambodia,Year,2016,false,,,,,,,,,,,,,43380,,,,,,43 380,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,DZA,Algeria,Year,2016,false,,,,,,,,,,,,,432,,,,,,432,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,ZAF,South Africa,Year,2016,false,,,,,,,,,,,,,4323,,,,,,4323,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AMR,Americas,Country,BLZ,Belize,Year,2016,false,,,,,,,,,,,,,5,,,,,,5,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,GHA,Ghana,Year,2016,false,,,,,,,,,,,,,5428979,,,,,,5 428 979,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,TZA,United Republic of Tanzania,Year,2016,false,,,,,,,,,,,,,5762373,,,,,,5 762 373,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AMR,Americas,Country,GTM,Guatemala,Year,2016,false,,,,,,,,,,,,,5001,,,,,,5001,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,SEAR,South-East Asia,Country,PRK,Democratic People's Republic of Korea,Year,2016,false,,,,,,,,,,,,,5033,,,,,,5033,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,WPR,Western Pacific,Country,PNG,Papua New Guinea,Year,2016,false,,,,,,,,,,,,,534819,,,,,,534 819,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,EMR,Eastern Mediterranean,Country,SAU,Saudi Arabia,Year,2016,false,,,,,,,,,,,,,5382,,,,,,5382,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,WPR,Western Pacific,Country,SLB,Solomon Islands,Year,2016,false,,,,,,,,,,,,,54432,,,,,,54 432,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AMR,Americas,Country,BOL,Bolivia (Plurinational State of),Year,2016,false,,,,,,,,,,,,,5553,,,,,,5553,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AMR,Americas,Country,PER,Peru,Year,2016,false,,,,,,,,,,,,,56623,,,,,,56 623,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,EMR,Eastern Mediterranean,Country,SDN,Sudan,Year,2016,false,,,,,,,,,,,,,566015,,,,,,566 015,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AMR,Americas,Country,MEX,Mexico,Year,2016,false,,,,,,,,,,,,,596,,,,,,596,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,EUR,Europe,Country,KGZ,Kyrgyzstan,Year,2016,false,,,,,,,,,,,,,6,,,,,,6,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AMR,Americas,Country,NIC,Nicaragua,Year,2016,false,,,,,,,,,,,,,6284,,,,,,6284,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,WPR,Western Pacific,Country,KOR,Republic of Korea,Year,2016,false,,,,,,,,,,,,,662,,,,,,662,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,WPR,Western Pacific,Country,PHL,Philippines,Year,2016,false,,,,,,,,,,,,,6680,,,,,,6680,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,MDG,Madagascar,Year,2016,false,,,,,,,,,,,,,686024,,,,,,686 024,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AMR,Americas,Country,ARG,Argentina,Year,2016,false,,,,,,,,,,,,,7,,,,,,7,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,EUR,Europe,Country,GEO,Georgia,Year,2016,false,,,,,,,,,,,,,7,,,,,,7,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,EMR,Eastern Mediterranean,Country,IRN,Iran (Islamic Republic of),Year,2016,false,,,,,,,,,,,,,705,,,,,,705,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,BWA,Botswana,Year,2016,false,,,,,,,,,,,,,723,,,,,,723,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,SEAR,South-East Asia,Country,BTN,Bhutan,Year,2016,false,,,,,,,,,,,,,74,,,,,,74,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,CPV,Cabo Verde,Year,2016,false,,,,,,,,,,,,,75,,,,,,75,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AMR,Americas,Country,DOM,Dominican Republic,Year,2016,false,,,,,,,,,,,,,755,,,,,,755,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,SSD,South Sudan,Year,2016,false,,,,,,,,,,,,,7619,,,,,,7619,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,BDI,Burundi,Year,2016,false,,,,,,,,,,,,,8793176,,,,,,8 793 176,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AMR,Americas,Country,PAN,Panama,Year,2016,false,,,,,,,,,,,,,811,,,,,,811,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AMR,Americas,Country,COL,Colombia,Year,2016,false,,,,,,,,,,,,,83227,,,,,,83 227,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,MOZ,Mozambique,Year,2016,false,,,,,,,,,,,,,9690873,,,,,,9 690 873,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,UGA,Uganda,Year,2016,false,,,,,,,,,,,,,9735849,,,,,,9 735 849,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,BFA,Burkina Faso,Year,2016,false,,,,,,,,,,,,,9779411,,,,,,9 779 411,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,SEAR,South-East Asia,Country,TLS,Timor-Leste,Year,2016,false,,,,,,,,,,,,,94,,,,,,94,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,EMR,Eastern Mediterranean,Country,YEM,Yemen,Year,2016,false,,,,,,,,,,,,,99700,,,,,,99 700,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,GIN,Guinea,Year,2016,false,,,,,,,,,,,,,992146,,,,,,992 146,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,EUR,Europe,Country,UZB,Uzbekistan,Year,2015,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,EUR,Europe,Country,AZE,Azerbaijan,Year,2015,false,,,,,,,,,,,,,1,,,,,,1,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,EUR,Europe,Country,KGZ,Kyrgyzstan,Year,2015,false,,,,,,,,,,,,,1,,,,,,1,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,SEAR,South-East Asia,Country,IND,India,Year,2015,false,,,,,,,,,,,,,1169261,,,,,,1 169 261,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,CMR,Cameroon,Year,2015,false,,,,,,,,,,,,,1193281,,,,,,1 193 281,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,SLE,Sierra Leone,Year,2015,false,,,,,,,,,,,,,1483376,,,,,,1 483 376,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,TGO,Togo,Year,2015,false,,,,,,,,,,,,,1610711,,,,,,1 610 711,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,BEN,Benin,Year,2015,false,,,,,,,,,,,,,1721626,,,,,,1 721 626,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,ETH,Ethiopia,Year,2015,false,,,,,,,,,,,,,1867059,,,,,,1 867 059,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,SEAR,South-East Asia,Country,BTN,Bhutan,Year,2015,false,,,,,,,,,,,,,104,,,,,,104,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AMR,Americas,Country,ARG,Argentina,Year,2015,false,,,,,,,,,,,,,11,,,,,,11,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,WPR,Western Pacific,Country,PHL,Philippines,Year,2015,false,,,,,,,,,,,,,11410,,,,,,11 410,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,EMR,Eastern Mediterranean,Country,AFG,Afghanistan,Year,2015,false,,,,,,,,,,,,,119859,,,,,,119 859,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,NAM,Namibia,Year,2015,false,,,,,,,,,,,,,12050,,,,,,12 050,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,COD,Democratic Republic of the Congo,Year,2015,false,,,,,,,,,,,,,12538805,,,,,,12 538 805,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AMR,Americas,Country,BLZ,Belize,Year,2015,false,,,,,,,,,,,,,13,,,,,,13,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AMR,Americas,Country,VEN,Venezuela (Bolivarian Republic of),Year,2015,false,,,,,,,,,,,,,137996,,,,,,137 996,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AMR,Americas,Country,BRA,Brazil,Year,2015,false,,,,,,,,,,,,,146161,,,,,,146 161,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,GNQ,Equatorial Guinea,Year,2015,false,,,,,,,,,,,,,15142,,,,,,15 142,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,GNB,Guinea-Bissau,Year,2015,false,,,,,,,,,,,,,150085,,,,,,150 085,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AMR,Americas,Country,HTI,Haiti,Year,2015,false,,,,,,,,,,,,,17583,,,,,,17 583,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,SEAR,South-East Asia,Country,MMR,Myanmar,Year,2015,false,,,,,,,,,,,,,182616,,,,,,182 616,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,SEAR,South-East Asia,Country,NPL,Nepal,Year,2015,false,,,,,,,,,,,,,1837,,,,,,1837,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,COM,Comoros,Year,2015,false,,,,,,,,,,,,,1884,,,,,,1884,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,EUR,Europe,Country,ARM,Armenia,Year,2015,false,,,,,,,,,,,,,2,,,,,,2,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,KEN,Kenya,Year,2015,false,,,,,,,,,,,,,2041277,,,,,,2 041 277,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,NER,Niger,Year,2015,false,,,,,,,,,,,,,2392108,,,,,,2 392 108,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,MLI,Mali,Year,2015,false,,,,,,,,,,,,,2454508,,,,,,2 454 508,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,RWA,Rwanda,Year,2015,false,,,,,,,,,,,,,2505794,,,,,,2 505 794,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,AGO,Angola,Year,2015,false,,,,,,,,,,,,,2769305,,,,,,2 769 305,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,EMR,Eastern Mediterranean,Country,SOM,Somalia,Year,2015,false,,,,,,,,,,,,,20953,,,,,,20 953,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,EMR,Eastern Mediterranean,Country,PAK,Pakistan,Year,2015,false,,,,,,,,,,,,,202013,,,,,,202 013,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,STP,Sao Tome and Principe,Year,2015,false,,,,,,,,,,,,,2058,,,,,,2058,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,SEAR,South-East Asia,Country,IDN,Indonesia,Year,2015,false,,,,,,,,,,,,,217025,,,,,,217 025,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,MRT,Mauritania,Year,2015,false,,,,,,,,,,,,,22631,,,,,,22 631,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,EUR,Europe,Country,TUR,Türkiye,Year,2015,false,,,,,,,,,,,,,221,,,,,,221,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,GAB,Gabon,Year,2015,false,,,,,,,,,,,,,23867,,,,,,23 867,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,WPR,Western Pacific,Country,SLB,Solomon Islands,Year,2015,false,,,,,,,,,,,,,23998,,,,,,23 998,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AMR,Americas,Country,NIC,Nicaragua,Year,2015,false,,,,,,,,,,,,,2308,,,,,,2308,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,WPR,Western Pacific,Country,MYS,Malaysia,Year,2015,false,,,,,,,,,,,,,2359,,,,,,2359,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,SEAR,South-East Asia,Country,THA,Thailand,Year,2015,false,,,,,,,,,,,,,24155,,,,,,24 155,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,SSD,South Sudan,Year,2015,false,,,,,,,,,,,,,24371,,,,,,24 371,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,GMB,Gambia,Year,2015,false,,,,,,,,,,,,,246348,,,,,,246 348,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,EMR,Eastern Mediterranean,Country,SAU,Saudi Arabia,Year,2015,false,,,,,,,,,,,,,2620,,,,,,2620,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,CPV,Cabo Verde,Year,2015,false,,,,,,,,,,,,,28,,,,,,28,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,ERI,Eritrea,Year,2015,false,,,,,,,,,,,,,28036,,,,,,28 036,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,CIV,Côte d’Ivoire,Year,2015,false,,,,,,,,,,,,,3375904,,,,,,3 375 904,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,MWI,Malawi,Year,2015,false,,,,,,,,,,,,,3661238,,,,,,3 661 238,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,WPR,Western Pacific,Country,CHN,China,Year,2015,false,,,,,,,,,,,,,3251,,,,,,3251,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,BWA,Botswana,Year,2015,false,,,,,,,,,,,,,332,,,,,,332,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,WPR,Western Pacific,Country,PNG,Papua New Guinea,Year,2015,false,,,,,,,,,,,,,346431,,,,,,346 431,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AMR,Americas,Country,HND,Honduras,Year,2015,false,,,,,,,,,,,,,3555,,,,,,3555,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,SEAR,South-East Asia,Country,LKA,Sri Lanka,Year,2015,false,,,,,,,,,,,,,36,,,,,,36,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,WPR,Western Pacific,Country,LAO,Lao People's Democratic Republic,Year,2015,false,,,,,,,,,,,,,36078,,,,,,36 078,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AMR,Americas,Country,SUR,Suriname,Year,2015,false,,,,,,,,,,,,,376,,,,,,376,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,SEAR,South-East Asia,Country,BGD,Bangladesh,Year,2015,false,,,,,,,,,,,,,39719,,,,,,39 719,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,EUR,Europe,Country,TJK,Tajikistan,Year,2015,false,,,,,,,,,,,,,4,,,,,,4,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,ZMB,Zambia,Year,2015,false,,,,,,,,,,,,,4184661,,,,,,4 184 661,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,TZA,United Republic of Tanzania,Year,2015,false,,,,,,,,,,,,,4902653,,,,,,4 902 653,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,SWZ,Eswatini,Year,2015,false,,,,,,,,,,,,,475,,,,,,475,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,ZWE,Zimbabwe,Year,2015,false,,,,,,,,,,,,,482379,,,,,,482 379,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,SEN,Senegal,Year,2015,false,,,,,,,,,,,,,492253,,,,,,492 253,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,ZAF,South Africa,Year,2015,false,,,,,,,,,,,,,4959,,,,,,4959,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,EUR,Europe,Country,GEO,Georgia,Year,2015,false,,,,,,,,,,,,,5,,,,,,5,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,BDI,Burundi,Year,2015,false,,,,,,,,,,,,,5428710,,,,,,5 428 710,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,GHA,Ghana,Year,2015,false,,,,,,,,,,,,,5657096,,,,,,5 657 096,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,COG,Congo,Year,2015,false,,,,,,,,,,,,,51529,,,,,,51 529,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AMR,Americas,Country,COL,Colombia,Year,2015,false,,,,,,,,,,,,,55866,,,,,,55 866,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AMR,Americas,Country,MEX,Mexico,Year,2015,false,,,,,,,,,,,,,551,,,,,,551,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AMR,Americas,Country,GTM,Guatemala,Year,2015,false,,,,,,,,,,,,,5540,,,,,,5540,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AMR,Americas,Country,PAN,Panama,Year,2015,false,,,,,,,,,,,,,562,,,,,,562,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,WPR,Western Pacific,Country,VUT,Vanuatu,Year,2015,false,,,,,,,,,,,,,571,,,,,,571,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,EMR,Eastern Mediterranean,Country,SDN,Sudan,Year,2015,false,,,,,,,,,,,,,586827,,,,,,586 827,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,CAF,Central African Republic,Year,2015,false,,,,,,,,,,,,,598833,,,,,,598 833,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AMR,Americas,Country,PER,Peru,Year,2015,false,,,,,,,,,,,,,66609,,,,,,66 609,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AMR,Americas,Country,DOM,Dominican Republic,Year,2015,false,,,,,,,,,,,,,661,,,,,,661,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,WPR,Western Pacific,Country,KHM,Cambodia,Year,2015,false,,,,,,,,,,,,,68109,,,,,,68 109,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AMR,Americas,Country,ECU,Ecuador,Year,2015,false,,,,,,,,,,,,,686,,,,,,686,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AMR,Americas,Country,BOL,Bolivia (Plurinational State of),Year,2015,false,,,,,,,,,,,,,6907,,,,,,6907,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,WPR,Western Pacific,Country,KOR,Republic of Korea,Year,2015,false,,,,,,,,,,,,,692,,,,,,692,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,BFA,Burkina Faso,Year,2015,false,,,,,,,,,,,,,7015446,,,,,,7 015 446,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,UGA,Uganda,Year,2015,false,,,,,,,,,,,,,7412747,,,,,,7 412 747,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,SEAR,South-East Asia,Country,PRK,Democratic People's Republic of Korea,Year,2015,false,,,,,,,,,,,,,7022,,,,,,7022,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,DZA,Algeria,Year,2015,false,,,,,,,,,,,,,747,,,,,,747,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,EMR,Eastern Mediterranean,Country,YEM,Yemen,Year,2015,false,,,,,,,,,,,,,76259,,,,,,76 259,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,TCD,Chad,Year,2015,false,,,,,,,,,,,,,787046,,,,,,787 046,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,EMR,Eastern Mediterranean,Country,IRN,Iran (Islamic Republic of),Year,2015,false,,,,,,,,,,,,,799,,,,,,799,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AMR,Americas,Country,CRI,Costa Rica,Year,2015,false,,,,,,,,,,,,,8,,,,,,8,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AMR,Americas,Country,PRY,Paraguay,Year,2015,false,,,,,,,,,,,,,8,,,,,,8,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,NGA,Nigeria,Year,2015,false,,,,,,,,,,,,,8068583,,,,,,8 068 583,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,MOZ,Mozambique,Year,2015,false,,,,,,,,,,,,,8222814,,,,,,8 222 814,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,SEAR,South-East Asia,Country,TLS,Timor-Leste,Year,2015,false,,,,,,,,,,,,,80,,,,,,80,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,GIN,Guinea,Year,2015,false,,,,,,,,,,,,,810979,,,,,,810 979,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AMR,Americas,Country,SLV,El Salvador,Year,2015,false,,,,,,,,,,,,,9,,,,,,9,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,WPR,Western Pacific,Country,VNM,Viet Nam,Year,2015,false,,,,,,,,,,,,,9331,,,,,,9331,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,MDG,Madagascar,Year,2015,false,,,,,,,,,,,,,939657,,,,,,939 657,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,LBR,Liberia,Year,2015,false,,,,,,,,,,,,,941711,,,,,,941 711,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,EMR,Eastern Mediterranean,Country,DJI,Djibouti,Year,2015,false,,,,,,,,,,,,,9473,,,,,,9473,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AMR,Americas,Country,GUY,Guyana,Year,2015,false,,,,,,,,,,,,,9984,,,,,,9984,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,EUR,Europe,Country,KGZ,Kyrgyzstan,Year,2014,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,EUR,Europe,Country,ARM,Armenia,Year,2014,false,,,,,,,,,,,,,1,,,,,,1,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,EUR,Europe,Country,UZB,Uzbekistan,Year,2014,false,,,,,,,,,,,,,1,,,,,,1,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,EMR,Eastern Mediterranean,Country,SDN,Sudan,Year,2014,false,,,,,,,,,,,,,1068506,,,,,,1 068 506,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,SEAR,South-East Asia,Country,IND,India,Year,2014,false,,,,,,,,,,,,,1102205,,,,,,1 102 205,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,BEN,Benin,Year,2014,false,,,,,,,,,,,,,1309238,,,,,,1 309 238,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,SLE,Sierra Leone,Year,2014,false,,,,,,,,,,,,,1374476,,,,,,1 374 476,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,TGO,Togo,Year,2014,false,,,,,,,,,,,,,1524339,,,,,,1 524 339,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,RWA,Rwanda,Year,2014,false,,,,,,,,,,,,,1623176,,,,,,1 623 176,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,COD,Democratic Republic of the Congo,Year,2014,false,,,,,,,,,,,,,10288519,,,,,,10 288 519,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,SEAR,South-East Asia,Country,PRK,Democratic People's Republic of Korea,Year,2014,false,,,,,,,,,,,,,10535,,,,,,10 535,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,EMR,Eastern Mediterranean,Country,AFG,Afghanistan,Year,2014,false,,,,,,,,,,,,,106478,,,,,,106 478,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,EMR,Eastern Mediterranean,Country,SOM,Somalia,Year,2014,false,,,,,,,,,,,,,11001,,,,,,11 001,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,ZAF,South Africa,Year,2014,false,,,,,,,,,,,,,11705,,,,,,11 705,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AMR,Americas,Country,NIC,Nicaragua,Year,2014,false,,,,,,,,,,,,,1163,,,,,,1163,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AMR,Americas,Country,GUY,Guyana,Year,2014,false,,,,,,,,,,,,,12354,,,,,,12 354,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,EMR,Eastern Mediterranean,Country,IRN,Iran (Islamic Republic of),Year,2014,false,,,,,,,,,,,,,1243,,,,,,1243,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,WPR,Western Pacific,Country,VUT,Vanuatu,Year,2014,false,,,,,,,,,,,,,1314,,,,,,1314,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,BWA,Botswana,Year,2014,false,,,,,,,,,,,,,1346,,,,,,1346,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AMR,Americas,Country,BRA,Brazil,Year,2014,false,,,,,,,,,,,,,142744,,,,,,142 744,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,SEAR,South-East Asia,Country,NPL,Nepal,Year,2014,false,,,,,,,,,,,,,1469,,,,,,1469,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AMR,Americas,Country,ARG,Argentina,Year,2014,false,,,,,,,,,,,,,15,,,,,,15,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,NAM,Namibia,Year,2014,false,,,,,,,,,,,,,15692,,,,,,15 692,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,WPR,Western Pacific,Country,VNM,Viet Nam,Year,2014,false,,,,,,,,,,,,,15752,,,,,,15 752,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,MRT,Mauritania,Year,2014,false,,,,,,,,,,,,,15835,,,,,,15 835,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,GMB,Gambia,Year,2014,false,,,,,,,,,,,,,168256,,,,,,168 256,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AMR,Americas,Country,HTI,Haiti,Year,2014,false,,,,,,,,,,,,,17696,,,,,,17 696,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,STP,Sao Tome and Principe,Year,2014,false,,,,,,,,,,,,,1754,,,,,,1754,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,WPR,Western Pacific,Country,SLB,Solomon Islands,Year,2014,false,,,,,,,,,,,,,18404,,,,,,18 404,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AMR,Americas,Country,BLZ,Belize,Year,2014,false,,,,,,,,,,,,,19,,,,,,19,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,EUR,Europe,Country,AZE,Azerbaijan,Year,2014,false,,,,,,,,,,,,,2,,,,,,2,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,MLI,Mali,Year,2014,false,,,,,,,,,,,,,2039853,,,,,,2 039 853,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,ETH,Ethiopia,Year,2014,false,,,,,,,,,,,,,2118815,,,,,,2 118 815,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,AGO,Angola,Year,2014,false,,,,,,,,,,,,,2298979,,,,,,2 298 979,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,KEN,Kenya,Year,2014,false,,,,,,,,,,,,,2851555,,,,,,2 851 555,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,MWI,Malawi,Year,2014,false,,,,,,,,,,,,,2905310,,,,,,2 905 310,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,GNQ,Equatorial Guinea,Year,2014,false,,,,,,,,,,,,,20417,,,,,,20 417,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,SEAR,South-East Asia,Country,MMR,Myanmar,Year,2014,false,,,,,,,,,,,,,205658,,,,,,205 658,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,COM,Comoros,Year,2014,false,,,,,,,,,,,,,2203,,,,,,2203,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,EMR,Eastern Mediterranean,Country,SAU,Saudi Arabia,Year,2014,false,,,,,,,,,,,,,2305,,,,,,2305,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AMR,Americas,Country,ECU,Ecuador,Year,2014,false,,,,,,,,,,,,,242,,,,,,242,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,EUR,Europe,Country,TUR,Türkiye,Year,2014,false,,,,,,,,,,,,,249,,,,,,249,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,SEAR,South-East Asia,Country,IDN,Indonesia,Year,2014,false,,,,,,,,,,,,,252027,,,,,,252 027,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,DZA,Algeria,Year,2014,false,,,,,,,,,,,,,266,,,,,,266,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,SEN,Senegal,Year,2014,false,,,,,,,,,,,,,268912,,,,,,268 912,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,EMR,Eastern Mediterranean,Country,PAK,Pakistan,Year,2014,false,,,,,,,,,,,,,275149,,,,,,275 149,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,CAF,Central African Republic,Year,2014,false,,,,,,,,,,,,,295088,,,,,,295 088,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,GHA,Ghana,Year,2014,false,,,,,,,,,,,,,3415912,,,,,,3 415 912,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,UGA,Uganda,Year,2014,false,,,,,,,,,,,,,3631939,,,,,,3 631 939,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,CIV,Côte d’Ivoire,Year,2014,false,,,,,,,,,,,,,3712831,,,,,,3 712 831,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,NER,Niger,Year,2014,false,,,,,,,,,,,,,3963768,,,,,,3 963 768,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,WPR,Western Pacific,Country,CHN,China,Year,2014,false,,,,,,,,,,,,,3079,,,,,,3079,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,GAB,Gabon,Year,2014,false,,,,,,,,,,,,,31900,,,,,,31 900,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,WPR,Western Pacific,Country,PNG,Papua New Guinea,Year,2014,false,,,,,,,,,,,,,314036,,,,,,314 036,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AMR,Americas,Country,HND,Honduras,Year,2014,false,,,,,,,,,,,,,3380,,,,,,3380,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,WPR,Western Pacific,Country,MYS,Malaysia,Year,2014,false,,,,,,,,,,,,,3923,,,,,,3923,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,ZMB,Zambia,Year,2014,false,,,,,,,,,,,,,4077547,,,,,,4 077 547,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,BDI,Burundi,Year,2014,false,,,,,,,,,,,,,4726299,,,,,,4 726 299,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AMR,Americas,Country,COL,Colombia,Year,2014,false,,,,,,,,,,,,,40768,,,,,,40 768,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AMR,Americas,Country,SUR,Suriname,Year,2014,false,,,,,,,,,,,,,401,,,,,,401,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,SEAR,South-East Asia,Country,THA,Thailand,Year,2014,false,,,,,,,,,,,,,41218,,,,,,41 218,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,SEAR,South-East Asia,Country,TLS,Timor-Leste,Year,2014,false,,,,,,,,,,,,,411,,,,,,411,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,CPV,Cabo Verde,Year,2014,false,,,,,,,,,,,,,46,,,,,,46,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,MDG,Madagascar,Year,2014,false,,,,,,,,,,,,,470924,,,,,,470 924,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,SEAR,South-East Asia,Country,BTN,Bhutan,Year,2014,false,,,,,,,,,,,,,48,,,,,,48,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,SEAR,South-East Asia,Country,LKA,Sri Lanka,Year,2014,false,,,,,,,,,,,,,49,,,,,,49,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AMR,Americas,Country,GTM,Guatemala,Year,2014,false,,,,,,,,,,,,,4931,,,,,,4931,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AMR,Americas,Country,DOM,Dominican Republic,Year,2014,false,,,,,,,,,,,,,496,,,,,,496,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,EUR,Europe,Country,GEO,Georgia,Year,2014,false,,,,,,,,,,,,,5,,,,,,5,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,BFA,Burkina Faso,Year,2014,false,,,,,,,,,,,,,5428655,,,,,,5 428 655,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,ERI,Eritrea,Year,2014,false,,,,,,,,,,,,,50534,,,,,,50 534,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,WPR,Western Pacific,Country,LAO,Lao People's Democratic Republic,Year,2014,false,,,,,,,,,,,,,50674,,,,,,50 674,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,ZWE,Zimbabwe,Year,2014,false,,,,,,,,,,,,,548276,,,,,,548 276,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,SEAR,South-East Asia,Country,BGD,Bangladesh,Year,2014,false,,,,,,,,,,,,,57480,,,,,,57 480,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AMR,Americas,Country,CRI,Costa Rica,Year,2014,false,,,,,,,,,,,,,6,,,,,,6,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,WPR,Western Pacific,Country,PHL,Philippines,Year,2014,false,,,,,,,,,,,,,6087,,,,,,6087,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,WPR,Western Pacific,Country,KOR,Republic of Korea,Year,2014,false,,,,,,,,,,,,,635,,,,,,635,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AMR,Americas,Country,PER,Peru,Year,2014,false,,,,,,,,,,,,,65252,,,,,,65 252,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,COG,Congo,Year,2014,false,,,,,,,,,,,,,66323,,,,,,66 323,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,GIN,Guinea,Year,2014,false,,,,,,,,,,,,,660207,,,,,,660 207,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AMR,Americas,Country,MEX,Mexico,Year,2014,false,,,,,,,,,,,,,666,,,,,,666,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,TZA,United Republic of Tanzania,Year,2014,false,,,,,,,,,,,,,680252,,,,,,680 252,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,WPR,Western Pacific,Country,KHM,Cambodia,Year,2014,false,,,,,,,,,,,,,69178,,,,,,69 178,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,EUR,Europe,Country,TJK,Tajikistan,Year,2014,false,,,,,,,,,,,,,7,,,,,,7,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,MOZ,Mozambique,Year,2014,false,,,,,,,,,,,,,7407175,,,,,,7 407 175,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,SSD,South Sudan,Year,2014,false,,,,,,,,,,,,,71377,,,,,,71 377,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,SWZ,Eswatini,Year,2014,false,,,,,,,,,,,,,711,,,,,,711,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AMR,Americas,Country,BOL,Bolivia (Plurinational State of),Year,2014,false,,,,,,,,,,,,,7401,,,,,,7401,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AMR,Americas,Country,SLV,El Salvador,Year,2014,false,,,,,,,,,,,,,8,,,,,,8,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AMR,Americas,Country,PRY,Paraguay,Year,2014,false,,,,,,,,,,,,,8,,,,,,8,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,NGA,Nigeria,Year,2014,false,,,,,,,,,,,,,8572322,,,,,,8 572 322,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,EMR,Eastern Mediterranean,Country,YEM,Yemen,Year,2014,false,,,,,,,,,,,,,86707,,,,,,86 707,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AMR,Americas,Country,PAN,Panama,Year,2014,false,,,,,,,,,,,,,874,,,,,,874,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,LBR,Liberia,Year,2014,false,,,,,,,,,,,,,881224,,,,,,881 224,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AMR,Americas,Country,VEN,Venezuela (Bolivarian Republic of),Year,2014,false,,,,,,,,,,,,,91918,,,,,,91 918,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,TCD,Chad,Year,2014,false,,,,,,,,,,,,,914032,,,,,,914 032,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,EMR,Eastern Mediterranean,Country,DJI,Djibouti,Year,2014,false,,,,,,,,,,,,,9439,,,,,,9439,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,GNB,Guinea-Bissau,Year,2014,false,,,,,,,,,,,,,97424,,,,,,97 424,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,BEN,Benin,Year,2013,false,,,,,,,,,,,,,1090602,,,,,,1 090 602,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,LBR,Liberia,Year,2013,false,,,,,,,,,,,,,1244220,,,,,,1 244 220,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,MWI,Malawi,Year,2013,false,,,,,,,,,,,,,1280892,,,,,,1 280 892,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,UGA,Uganda,Year,2013,false,,,,,,,,,,,,,1502362,,,,,,1 502 362,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,MLI,Mali,Year,2013,false,,,,,,,,,,,,,1506940,,,,,,1 506 940,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,TZA,United Republic of Tanzania,Year,2013,false,,,,,,,,,,,,,1554638,,,,,,1 554 638,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,GHA,Ghana,Year,2013,false,,,,,,,,,,,,,1643642,,,,,,1 643 642,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,SLE,Sierra Leone,Year,2013,false,,,,,,,,,,,,,1701958,,,,,,1 701 958,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,AGO,Angola,Year,2013,false,,,,,,,,,,,,,1999868,,,,,,1 999 868,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,EMR,Eastern Mediterranean,Country,YEM,Yemen,Year,2013,false,,,,,,,,,,,,,102778,,,,,,102 778,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AMR,Americas,Country,ARG,Argentina,Year,2013,false,,,,,,,,,,,,,11,,,,,,11,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AMR,Americas,Country,PRY,Paraguay,Year,2013,false,,,,,,,,,,,,,11,,,,,,11,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AMR,Americas,Country,NIC,Nicaragua,Year,2013,false,,,,,,,,,,,,,1196,,,,,,1196,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,SEAR,South-East Asia,Country,TLS,Timor-Leste,Year,2013,false,,,,,,,,,,,,,1223,,,,,,1223,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,EMR,Eastern Mediterranean,Country,IRN,Iran (Islamic Republic of),Year,2013,false,,,,,,,,,,,,,1374,,,,,,1374,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,EUR,Europe,Country,TJK,Tajikistan,Year,2013,false,,,,,,,,,,,,,14,,,,,,14,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,SEAR,South-East Asia,Country,PRK,Democratic People's Republic of Korea,Year,2013,false,,,,,,,,,,,,,14407,,,,,,14 407,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,MRT,Mauritania,Year,2013,false,,,,,,,,,,,,,1587,,,,,,1587,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,GNQ,Equatorial Guinea,Year,2013,false,,,,,,,,,,,,,16405,,,,,,16 405,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,CAF,Central African Republic,Year,2013,false,,,,,,,,,,,,,163701,,,,,,163 701,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,EMR,Eastern Mediterranean,Country,DJI,Djibouti,Year,2013,false,,,,,,,,,,,,,1684,,,,,,1684,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,WPR,Western Pacific,Country,VNM,Viet Nam,Year,2013,false,,,,,,,,,,,,,17128,,,,,,17 128,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AMR,Americas,Country,BRA,Brazil,Year,2013,false,,,,,,,,,,,,,178546,,,,,,178 546,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,SEAR,South-East Asia,Country,NPL,Nepal,Year,2013,false,,,,,,,,,,,,,1974,,,,,,1974,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,NER,Niger,Year,2013,false,,,,,,,,,,,,,2373591,,,,,,2 373 591,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,KEN,Kenya,Year,2013,false,,,,,,,,,,,,,2375129,,,,,,2 375 129,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,CIV,Côte d’Ivoire,Year,2013,false,,,,,,,,,,,,,2524326,,,,,,2 524 326,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,ETH,Ethiopia,Year,2013,false,,,,,,,,,,,,,2645454,,,,,,2 645 454,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,ERI,Eritrea,Year,2013,false,,,,,,,,,,,,,21317,,,,,,21 317,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,GIN,Guinea,Year,2013,false,,,,,,,,,,,,,211257,,,,,,211 257,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,GMB,Gambia,Year,2013,false,,,,,,,,,,,,,242513,,,,,,242 513,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,WPR,Western Pacific,Country,SLB,Solomon Islands,Year,2013,false,,,,,,,,,,,,,25609,,,,,,25 609,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,EUR,Europe,Country,TUR,Türkiye,Year,2013,false,,,,,,,,,,,,,251,,,,,,251,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,EMR,Eastern Mediterranean,Country,SAU,Saudi Arabia,Year,2013,false,,,,,,,,,,,,,2513,,,,,,2513,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AMR,Americas,Country,BLZ,Belize,Year,2013,false,,,,,,,,,,,,,26,,,,,,26,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AMR,Americas,Country,HTI,Haiti,Year,2013,false,,,,,,,,,,,,,26543,,,,,,26 543,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,SEAR,South-East Asia,Country,BGD,Bangladesh,Year,2013,false,,,,,,,,,,,,,26891,,,,,,26 891,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,SSD,South Sudan,Year,2013,false,,,,,,,,,,,,,262520,,,,,,262 520,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,GAB,Gabon,Year,2013,false,,,,,,,,,,,,,28982,,,,,,28 982,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,EMR,Eastern Mediterranean,Country,PAK,Pakistan,Year,2013,false,,,,,,,,,,,,,281755,,,,,,281 755,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,WPR,Western Pacific,Country,VUT,Vanuatu,Year,2013,false,,,,,,,,,,,,,2883,,,,,,2883,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,EUR,Europe,Country,UZB,Uzbekistan,Year,2013,false,,,,,,,,,,,,,3,,,,,,3,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,MOZ,Mozambique,Year,2013,false,,,,,,,,,,,,,3282172,,,,,,3 282 172,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,BFA,Burkina Faso,Year,2013,false,,,,,,,,,,,,,3769051,,,,,,3 769 051,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AMR,Americas,Country,GUY,Guyana,Year,2013,false,,,,,,,,,,,,,31479,,,,,,31 479,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,WPR,Western Pacific,Country,PNG,Papua New Guinea,Year,2013,false,,,,,,,,,,,,,316125,,,,,,316 125,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,SEAR,South-East Asia,Country,MMR,Myanmar,Year,2013,false,,,,,,,,,,,,,333871,,,,,,333 871,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,SEAR,South-East Asia,Country,IDN,Indonesia,Year,2013,false,,,,,,,,,,,,,343527,,,,,,343 527,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,SEN,Senegal,Year,2013,false,,,,,,,,,,,,,366687,,,,,,366 687,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AMR,Americas,Country,ECU,Ecuador,Year,2013,false,,,,,,,,,,,,,378,,,,,,378,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,WPR,Western Pacific,Country,MYS,Malaysia,Year,2013,false,,,,,,,,,,,,,3850,,,,,,3850,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,WPR,Western Pacific,Country,LAO,Lao People's Democratic Republic,Year,2013,false,,,,,,,,,,,,,39589,,,,,,39 589,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,EUR,Europe,Country,AZE,Azerbaijan,Year,2013,false,,,,,,,,,,,,,4,,,,,,4,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,EUR,Europe,Country,KGZ,Kyrgyzstan,Year,2013,false,,,,,,,,,,,,,4,,,,,,4,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,BDI,Burundi,Year,2013,false,,,,,,,,,,,,,4178338,,,,,,4 178 338,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,SEAR,South-East Asia,Country,THA,Thailand,Year,2013,false,,,,,,,,,,,,,41602,,,,,,41 602,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,CMR,Cameroon,Year,2013,false,,,,,,,,,,,,,42581,,,,,,42 581,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,WPR,Western Pacific,Country,CHN,China,Year,2013,false,,,,,,,,,,,,,4205,,,,,,4205,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,ZWE,Zimbabwe,Year,2013,false,,,,,,,,,,,,,422633,,,,,,422 633,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,COG,Congo,Year,2013,false,,,,,,,,,,,,,43232,,,,,,43 232,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,MDG,Madagascar,Year,2013,false,,,,,,,,,,,,,433450,,,,,,433 450,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,WPR,Western Pacific,Country,KHM,Cambodia,Year,2013,false,,,,,,,,,,,,,44069,,,,,,44 069,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,WPR,Western Pacific,Country,KOR,Republic of Korea,Year,2013,false,,,,,,,,,,,,,443,,,,,,443,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,SEAR,South-East Asia,Country,BTN,Bhutan,Year,2013,false,,,,,,,,,,,,,45,,,,,,45,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,BWA,Botswana,Year,2013,false,,,,,,,,,,,,,456,,,,,,456,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,CPV,Cabo Verde,Year,2013,false,,,,,,,,,,,,,46,,,,,,46,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,NAM,Namibia,Year,2013,false,,,,,,,,,,,,,4775,,,,,,4775,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AMR,Americas,Country,PER,Peru,Year,2013,false,,,,,,,,,,,,,48719,,,,,,48 719,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AMR,Americas,Country,MEX,Mexico,Year,2013,false,,,,,,,,,,,,,499,,,,,,499,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AMR,Americas,Country,COL,Colombia,Year,2013,false,,,,,,,,,,,,,51722,,,,,,51 722,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,EMR,Eastern Mediterranean,Country,AFG,Afghanistan,Year,2013,false,,,,,,,,,,,,,52965,,,,,,52 965,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,COM,Comoros,Year,2013,false,,,,,,,,,,,,,53156,,,,,,53 156,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AMR,Americas,Country,HND,Honduras,Year,2013,false,,,,,,,,,,,,,5364,,,,,,5364,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,GNB,Guinea-Bissau,Year,2013,false,,,,,,,,,,,,,54584,,,,,,54 584,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AMR,Americas,Country,DOM,Dominican Republic,Year,2013,false,,,,,,,,,,,,,579,,,,,,579,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,EMR,Eastern Mediterranean,Country,SDN,Sudan,Year,2013,false,,,,,,,,,,,,,592383,,,,,,592 383,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AMR,Americas,Country,CRI,Costa Rica,Year,2013,false,,,,,,,,,,,,,6,,,,,,6,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,COD,Democratic Republic of the Congo,Year,2013,false,,,,,,,,,,,,,6719887,,,,,,6 719 887,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,DZA,Algeria,Year,2013,false,,,,,,,,,,,,,603,,,,,,603,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AMR,Americas,Country,GTM,Guatemala,Year,2013,false,,,,,,,,,,,,,6214,,,,,,6214,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AMR,Americas,Country,SLV,El Salvador,Year,2013,false,,,,,,,,,,,,,7,,,,,,7,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,EUR,Europe,Country,GEO,Georgia,Year,2013,false,,,,,,,,,,,,,7,,,,,,7,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AMR,Americas,Country,PAN,Panama,Year,2013,false,,,,,,,,,,,,,705,,,,,,705,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AMR,Americas,Country,SUR,Suriname,Year,2013,false,,,,,,,,,,,,,729,,,,,,729,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AMR,Americas,Country,BOL,Bolivia (Plurinational State of),Year,2013,false,,,,,,,,,,,,,7342,,,,,,7342,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,EMR,Eastern Mediterranean,Country,SOM,Somalia,Year,2013,false,,,,,,,,,,,,,7407,,,,,,7407,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,TCD,Chad,Year,2013,false,,,,,,,,,,,,,754565,,,,,,754 565,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,WPR,Western Pacific,Country,PHL,Philippines,Year,2013,false,,,,,,,,,,,,,7720,,,,,,7720,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AMR,Americas,Country,VEN,Venezuela (Bolivarian Republic of),Year,2013,false,,,,,,,,,,,,,80320,,,,,,80 320,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,ZAF,South Africa,Year,2013,false,,,,,,,,,,,,,8645,,,,,,8645,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,SEAR,South-East Asia,Country,IND,India,Year,2013,false,,,,,,,,,,,,,881730,,,,,,881 730,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,STP,Sao Tome and Principe,Year,2013,false,,,,,,,,,,,,,9243,,,,,,9243,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,SEAR,South-East Asia,Country,LKA,Sri Lanka,Year,2013,false,,,,,,,,,,,,,95,,,,,,95,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,SWZ,Eswatini,Year,2013,false,,,,,,,,,,,,,962,,,,,,962,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,RWA,Rwanda,Year,2013,false,,,,,,,,,,,,,962618,,,,,,962 618,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,TGO,Togo,Year,2013,false,,,,,,,,,,,,,965832,,,,,,965 832,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,EUR,Europe,Country,UZB,Uzbekistan,Year,2012,false,,,,,,,,,,,,,1,,,,,,1,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,SEAR,South-East Asia,Country,IND,India,Year,2012,false,,,,,,,,,,,,,1067824,,,,,,1 067 824,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,CIV,Côte d’Ivoire,Year,2012,false,,,,,,,,,,,,,1140627,,,,,,1 140 627,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,LBR,Liberia,Year,2012,false,,,,,,,,,,,,,1412629,,,,,,1 412 629,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,KEN,Kenya,Year,2012,false,,,,,,,,,,,,,1453471,,,,,,1 453 471,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,AGO,Angola,Year,2012,false,,,,,,,,,,,,,1496834,,,,,,1 496 834,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,SLE,Sierra Leone,Year,2012,false,,,,,,,,,,,,,1537322,,,,,,1 537 322,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,MWI,Malawi,Year,2012,false,,,,,,,,,,,,,1564984,,,,,,1 564 984,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,ETH,Ethiopia,Year,2012,false,,,,,,,,,,,,,1692578,,,,,,1 692 578,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,MOZ,Mozambique,Year,2012,false,,,,,,,,,,,,,1853276,,,,,,1 853 276,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,TZA,United Republic of Tanzania,Year,2012,false,,,,,,,,,,,,,1987629,,,,,,1 987 629,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,EMR,Eastern Mediterranean,Country,YEM,Yemen,Year,2012,false,,,,,,,,,,,,,112359,,,,,,112 359,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,STP,Sao Tome and Principe,Year,2012,false,,,,,,,,,,,,,12550,,,,,,12 550,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,COG,Congo,Year,2012,false,,,,,,,,,,,,,120319,,,,,,120 319,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AMR,Americas,Country,NIC,Nicaragua,Year,2012,false,,,,,,,,,,,,,1235,,,,,,1235,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AMR,Americas,Country,PRY,Paraguay,Year,2012,false,,,,,,,,,,,,,15,,,,,,15,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,GNQ,Equatorial Guinea,Year,2012,false,,,,,,,,,,,,,15169,,,,,,15 169,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,WPR,Western Pacific,Country,PNG,Papua New Guinea,Year,2012,false,,,,,,,,,,,,,150195,,,,,,150 195,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AMR,Americas,Country,ARG,Argentina,Year,2012,false,,,,,,,,,,,,,16,,,,,,16,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,EMR,Eastern Mediterranean,Country,IRN,Iran (Islamic Republic of),Year,2012,false,,,,,,,,,,,,,1629,,,,,,1629,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,MRT,Mauritania,Year,2012,false,,,,,,,,,,,,,1888,,,,,,1888,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,WPR,Western Pacific,Country,VNM,Viet Nam,Year,2012,false,,,,,,,,,,,,,19638,,,,,,19 638,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,GAB,Gabon,Year,2012,false,,,,,,,,,,,,,19753,,,,,,19 753,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,BWA,Botswana,Year,2012,false,,,,,,,,,,,,,193,,,,,,193,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,NAM,Namibia,Year,2012,false,,,,,,,,,,,,,194,,,,,,194,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,BDI,Burundi,Year,2012,false,,,,,,,,,,,,,2166690,,,,,,2 166 690,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,NER,Niger,Year,2012,false,,,,,,,,,,,,,2329260,,,,,,2 329 260,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,UGA,Uganda,Year,2012,false,,,,,,,,,,,,,2662258,,,,,,2 662 258,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AMR,Americas,Country,SLV,El Salvador,Year,2012,false,,,,,,,,,,,,,20,,,,,,20,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,ERI,Eritrea,Year,2012,false,,,,,,,,,,,,,21815,,,,,,21 815,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,SEAR,South-East Asia,Country,PRK,Democratic People's Republic of Korea,Year,2012,false,,,,,,,,,,,,,21850,,,,,,21 850,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,SSD,South Sudan,Year,2012,false,,,,,,,,,,,,,225371,,,,,,225 371,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,WPR,Western Pacific,Country,SLB,Solomon Islands,Year,2012,false,,,,,,,,,,,,,24383,,,,,,24 383,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AMR,Americas,Country,BRA,Brazil,Year,2012,false,,,,,,,,,,,,,242758,,,,,,242 758,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,EMR,Eastern Mediterranean,Country,DJI,Djibouti,Year,2012,false,,,,,,,,,,,,,25,,,,,,25,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,WPR,Western Pacific,Country,CHN,China,Year,2012,false,,,,,,,,,,,,,2603,,,,,,2603,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AMR,Americas,Country,HTI,Haiti,Year,2012,false,,,,,,,,,,,,,27866,,,,,,27 866,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,ZWE,Zimbabwe,Year,2012,false,,,,,,,,,,,,,276963,,,,,,276 963,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,SEN,Senegal,Year,2012,false,,,,,,,,,,,,,280241,,,,,,280 241,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,SEAR,South-East Asia,Country,BGD,Bangladesh,Year,2012,false,,,,,,,,,,,,,29518,,,,,,29 518,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,EMR,Eastern Mediterranean,Country,PAK,Pakistan,Year,2012,false,,,,,,,,,,,,,290781,,,,,,290 781,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,EUR,Europe,Country,KGZ,Kyrgyzstan,Year,2012,false,,,,,,,,,,,,,3,,,,,,3,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,GHA,Ghana,Year,2012,false,,,,,,,,,,,,,3755166,,,,,,3 755 166,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,BFA,Burkina Faso,Year,2012,false,,,,,,,,,,,,,3858046,,,,,,3 858 046,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AMR,Americas,Country,PER,Peru,Year,2012,false,,,,,,,,,,,,,31436,,,,,,31 436,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AMR,Americas,Country,GUY,Guyana,Year,2012,false,,,,,,,,,,,,,31601,,,,,,31 601,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,GMB,Gambia,Year,2012,false,,,,,,,,,,,,,313469,,,,,,313 469,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,SEAR,South-East Asia,Country,NPL,Nepal,Year,2012,false,,,,,,,,,,,,,3230,,,,,,3230,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,GIN,Guinea,Year,2012,false,,,,,,,,,,,,,340258,,,,,,340 258,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,EMR,Eastern Mediterranean,Country,SAU,Saudi Arabia,Year,2012,false,,,,,,,,,,,,,3406,,,,,,3406,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,CPV,Cabo Verde,Year,2012,false,,,,,,,,,,,,,36,,,,,,36,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AMR,Americas,Country,BLZ,Belize,Year,2012,false,,,,,,,,,,,,,37,,,,,,37,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,EUR,Europe,Country,TUR,Türkiye,Year,2012,false,,,,,,,,,,,,,376,,,,,,376,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,EUR,Europe,Country,TJK,Tajikistan,Year,2012,false,,,,,,,,,,,,,39,,,,,,39,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,EUR,Europe,Country,ARM,Armenia,Year,2012,false,,,,,,,,,,,,,4,,,,,,4,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,EUR,Europe,Country,AZE,Azerbaijan,Year,2012,false,,,,,,,,,,,,,4,,,,,,4,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,EUR,Europe,Country,GEO,Georgia,Year,2012,false,,,,,,,,,,,,,4,,,,,,4,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,COD,Democratic Republic of the Congo,Year,2012,false,,,,,,,,,,,,,4791598,,,,,,4 791 598,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,MDG,Madagascar,Year,2012,false,,,,,,,,,,,,,402900,,,,,,402 900,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,SEAR,South-East Asia,Country,IDN,Indonesia,Year,2012,false,,,,,,,,,,,,,417819,,,,,,417 819,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,WPR,Western Pacific,Country,VUT,Vanuatu,Year,2012,false,,,,,,,,,,,,,4532,,,,,,4532,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,WPR,Western Pacific,Country,LAO,Lao People's Democratic Republic,Year,2012,false,,,,,,,,,,,,,46153,,,,,,46 153,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,SEAR,South-East Asia,Country,THA,Thailand,Year,2012,false,,,,,,,,,,,,,46895,,,,,,46 895,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,WPR,Western Pacific,Country,MYS,Malaysia,Year,2012,false,,,,,,,,,,,,,4725,,,,,,4725,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,SEAR,South-East Asia,Country,MMR,Myanmar,Year,2012,false,,,,,,,,,,,,,481204,,,,,,481 204,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,RWA,Rwanda,Year,2012,false,,,,,,,,,,,,,483470,,,,,,483 470,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,COM,Comoros,Year,2012,false,,,,,,,,,,,,,49840,,,,,,49 840,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,GNB,Guinea-Bissau,Year,2012,false,,,,,,,,,,,,,50381,,,,,,50 381,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AMR,Americas,Country,VEN,Venezuela (Bolivarian Republic of),Year,2012,false,,,,,,,,,,,,,52803,,,,,,52 803,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,EMR,Eastern Mediterranean,Country,SDN,Sudan,Year,2012,false,,,,,,,,,,,,,526931,,,,,,526 931,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AMR,Americas,Country,GTM,Guatemala,Year,2012,false,,,,,,,,,,,,,5346,,,,,,5346,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,EMR,Eastern Mediterranean,Country,AFG,Afghanistan,Year,2012,false,,,,,,,,,,,,,54840,,,,,,54 840,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,SEAR,South-East Asia,Country,TLS,Timor-Leste,Year,2012,false,,,,,,,,,,,,,5518,,,,,,5518,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,WPR,Western Pacific,Country,KOR,Republic of Korea,Year,2012,false,,,,,,,,,,,,,555,,,,,,555,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AMR,Americas,Country,ECU,Ecuador,Year,2012,false,,,,,,,,,,,,,558,,,,,,558,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,SWZ,Eswatini,Year,2012,false,,,,,,,,,,,,,562,,,,,,562,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AMR,Americas,Country,SUR,Suriname,Year,2012,false,,,,,,,,,,,,,569,,,,,,569,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AMR,Americas,Country,COL,Colombia,Year,2012,false,,,,,,,,,,,,,60179,,,,,,60 179,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AMR,Americas,Country,HND,Honduras,Year,2012,false,,,,,,,,,,,,,6439,,,,,,6439,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,CMR,Cameroon,Year,2012,false,,,,,,,,,,,,,66656,,,,,,66 656,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,ZAF,South Africa,Year,2012,false,,,,,,,,,,,,,6621,,,,,,6621,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,EMR,Eastern Mediterranean,Country,SOM,Somalia,Year,2012,false,,,,,,,,,,,,,6817,,,,,,6817,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,WPR,Western Pacific,Country,KHM,Cambodia,Year,2012,false,,,,,,,,,,,,,69551,,,,,,69 551,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,BEN,Benin,Year,2012,false,,,,,,,,,,,,,705839,,,,,,705 839,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AMR,Americas,Country,BOL,Bolivia (Plurinational State of),Year,2012,false,,,,,,,,,,,,,7415,,,,,,7415,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,TCD,Chad,Year,2012,false,,,,,,,,,,,,,7710,,,,,,7710,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AMR,Americas,Country,CRI,Costa Rica,Year,2012,false,,,,,,,,,,,,,8,,,,,,8,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,WPR,Western Pacific,Country,PHL,Philippines,Year,2012,false,,,,,,,,,,,,,8086,,,,,,8086,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,SEAR,South-East Asia,Country,BTN,Bhutan,Year,2012,false,,,,,,,,,,,,,82,,,,,,82,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AMR,Americas,Country,MEX,Mexico,Year,2012,false,,,,,,,,,,,,,842,,,,,,842,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AMR,Americas,Country,PAN,Panama,Year,2012,false,,,,,,,,,,,,,844,,,,,,844,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,CAF,Central African Republic,Year,2012,false,,,,,,,,,,,,,87566,,,,,,87 566,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,MLI,Mali,Year,2012,false,,,,,,,,,,,,,886482,,,,,,886 482,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,DZA,Algeria,Year,2012,false,,,,,,,,,,,,,887,,,,,,887,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,TGO,Togo,Year,2012,false,,,,,,,,,,,,,909129,,,,,,909 129,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,SEAR,South-East Asia,Country,LKA,Sri Lanka,Year,2012,false,,,,,,,,,,,,,93,,,,,,93,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AMR,Americas,Country,DOM,Dominican Republic,Year,2012,false,,,,,,,,,,,,,952,,,,,,952,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,EUR,Europe,Country,UZB,Uzbekistan,Year,2011,false,,,,,,,,,,,,,1,,,,,,1,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,KEN,Kenya,Year,2011,false,,,,,,,,,,,,,1002805,,,,,,1 002 805,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,GHA,Ghana,Year,2011,false,,,,,,,,,,,,,1041260,,,,,,1 041 260,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,SEAR,South-East Asia,Country,IND,India,Year,2011,false,,,,,,,,,,,,,1310656,,,,,,1 310 656,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,ETH,Ethiopia,Year,2011,false,,,,,,,,,,,,,1480360,,,,,,1 480 360,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,BDI,Burundi,Year,2011,false,,,,,,,,,,,,,1575237,,,,,,1 575 237,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,AGO,Angola,Year,2011,false,,,,,,,,,,,,,1632282,,,,,,1 632 282,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,MOZ,Mozambique,Year,2011,false,,,,,,,,,,,,,1756874,,,,,,1 756 874,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,LBR,Liberia,Year,2011,false,,,,,,,,,,,,,1921159,,,,,,1 921 159,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AMR,Americas,Country,PRY,Paraguay,Year,2011,false,,,,,,,,,,,,,10,,,,,,10,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,EUR,Europe,Country,TJK,Tajikistan,Year,2011,false,,,,,,,,,,,,,100,,,,,,100,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,WPR,Western Pacific,Country,KHM,Cambodia,Year,2011,false,,,,,,,,,,,,,106905,,,,,,106 905,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,SSD,South Sudan,Year,2011,false,,,,,,,,,,,,,112024,,,,,,112 024,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AMR,Americas,Country,MEX,Mexico,Year,2011,false,,,,,,,,,,,,,1130,,,,,,1130,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AMR,Americas,Country,ECU,Ecuador,Year,2011,false,,,,,,,,,,,,,1232,,,,,,1232,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,EUR,Europe,Country,TUR,Türkiye,Year,2011,false,,,,,,,,,,,,,128,,,,,,128,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AMR,Americas,Country,SLV,El Salvador,Year,2011,false,,,,,,,,,,,,,15,,,,,,15,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,NAM,Namibia,Year,2011,false,,,,,,,,,,,,,1525,,,,,,1525,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,WPR,Western Pacific,Country,VNM,Viet Nam,Year,2011,false,,,,,,,,,,,,,16612,,,,,,16 612,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,SEAR,South-East Asia,Country,PRK,Democratic People's Republic of Korea,Year,2011,false,,,,,,,,,,,,,16760,,,,,,16 760,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AMR,Americas,Country,DOM,Dominican Republic,Year,2011,false,,,,,,,,,,,,,1616,,,,,,1616,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AMR,Americas,Country,CRI,Costa Rica,Year,2011,false,,,,,,,,,,,,,17,,,,,,17,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,WPR,Western Pacific,Country,LAO,Lao People's Democratic Republic,Year,2011,false,,,,,,,,,,,,,17532,,,,,,17 532,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,CMR,Cameroon,Year,2011,false,,,,,,,,,,,,,17874,,,,,,17 874,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,SEAR,South-East Asia,Country,LKA,Sri Lanka,Year,2011,false,,,,,,,,,,,,,175,,,,,,175,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,TCD,Chad,Year,2011,false,,,,,,,,,,,,,181126,,,,,,181 126,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,SEAR,South-East Asia,Country,TLS,Timor-Leste,Year,2011,false,,,,,,,,,,,,,19739,,,,,,19 739,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,DZA,Algeria,Year,2011,false,,,,,,,,,,,,,191,,,,,,191,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,SEAR,South-East Asia,Country,BTN,Bhutan,Year,2011,false,,,,,,,,,,,,,194,,,,,,194,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,TZA,United Republic of Tanzania,Year,2011,false,,,,,,,,,,,,,2151236,,,,,,2 151 236,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,GNQ,Equatorial Guinea,Year,2011,false,,,,,,,,,,,,,22466,,,,,,22 466,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,MDG,Madagascar,Year,2011,false,,,,,,,,,,,,,224498,,,,,,224 498,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,UGA,Uganda,Year,2011,false,,,,,,,,,,,,,231873,,,,,,231 873,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,COM,Comoros,Year,2011,false,,,,,,,,,,,,,24856,,,,,,24 856,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,SEAR,South-East Asia,Country,THA,Thailand,Year,2011,false,,,,,,,,,,,,,24897,,,,,,24 897,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AMR,Americas,Country,PER,Peru,Year,2011,false,,,,,,,,,,,,,25005,,,,,,25 005,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,WPR,Western Pacific,Country,SLB,Solomon Islands,Year,2011,false,,,,,,,,,,,,,26657,,,,,,26 657,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AMR,Americas,Country,BRA,Brazil,Year,2011,false,,,,,,,,,,,,,267146,,,,,,267 146,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,GMB,Gambia,Year,2011,false,,,,,,,,,,,,,268020,,,,,,268 020,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,RWA,Rwanda,Year,2011,false,,,,,,,,,,,,,273293,,,,,,273 293,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,SEN,Senegal,Year,2011,false,,,,,,,,,,,,,274119,,,,,,274 119,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,EMR,Eastern Mediterranean,Country,SAU,Saudi Arabia,Year,2011,false,,,,,,,,,,,,,2788,,,,,,2788,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AMR,Americas,Country,ARG,Argentina,Year,2011,false,,,,,,,,,,,,,28,,,,,,28,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AMR,Americas,Country,GUY,Guyana,Year,2011,false,,,,,,,,,,,,,29471,,,,,,29 471,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,CIV,Côte d’Ivoire,Year,2011,false,,,,,,,,,,,,,29976,,,,,,29 976,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,MRT,Mauritania,Year,2011,false,,,,,,,,,,,,,2926,,,,,,2926,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,MWI,Malawi,Year,2011,false,,,,,,,,,,,,,304499,,,,,,304 499,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,MLI,Mali,Year,2011,false,,,,,,,,,,,,,307035,,,,,,307 035,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,ZWE,Zimbabwe,Year,2011,false,,,,,,,,,,,,,319935,,,,,,319 935,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,EMR,Eastern Mediterranean,Country,IRN,Iran (Islamic Republic of),Year,2011,false,,,,,,,,,,,,,3239,,,,,,3239,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,EMR,Eastern Mediterranean,Country,PAK,Pakistan,Year,2011,false,,,,,,,,,,,,,334589,,,,,,334 589,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,EMR,Eastern Mediterranean,Country,SOM,Somalia,Year,2011,false,,,,,,,,,,,,,3351,,,,,,3351,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,WPR,Western Pacific,Country,CHN,China,Year,2011,false,,,,,,,,,,,,,3367,,,,,,3367,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AMR,Americas,Country,HTI,Haiti,Year,2011,false,,,,,,,,,,,,,34350,,,,,,34 350,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,ERI,Eritrea,Year,2011,false,,,,,,,,,,,,,34848,,,,,,34 848,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,SEAR,South-East Asia,Country,NPL,Nepal,Year,2011,false,,,,,,,,,,,,,3414,,,,,,3414,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AMR,Americas,Country,PAN,Panama,Year,2011,false,,,,,,,,,,,,,354,,,,,,354,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,CPV,Cabo Verde,Year,2011,false,,,,,,,,,,,,,36,,,,,,36,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,COG,Congo,Year,2011,false,,,,,,,,,,,,,37744,,,,,,37 744,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,COD,Democratic Republic of the Congo,Year,2011,false,,,,,,,,,,,,,4561981,,,,,,4 561 981,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,SEAR,South-East Asia,Country,IDN,Indonesia,Year,2011,false,,,,,,,,,,,,,422447,,,,,,422 447,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,BEN,Benin,Year,2011,false,,,,,,,,,,,,,422968,,,,,,422 968,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,BFA,Burkina Faso,Year,2011,false,,,,,,,,,,,,,428113,,,,,,428 113,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,BWA,Botswana,Year,2011,false,,,,,,,,,,,,,432,,,,,,432,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AMR,Americas,Country,VEN,Venezuela (Bolivarian Republic of),Year,2011,false,,,,,,,,,,,,,45824,,,,,,45 824,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,SEAR,South-East Asia,Country,MMR,Myanmar,Year,2011,false,,,,,,,,,,,,,465294,,,,,,465 294,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,EUR,Europe,Country,GEO,Georgia,Year,2011,false,,,,,,,,,,,,,5,,,,,,5,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,EUR,Europe,Country,KGZ,Kyrgyzstan,Year,2011,false,,,,,,,,,,,,,5,,,,,,5,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,TGO,Togo,Year,2011,false,,,,,,,,,,,,,506764,,,,,,506 764,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,EMR,Eastern Mediterranean,Country,SDN,Sudan,Year,2011,false,,,,,,,,,,,,,506806,,,,,,506 806,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,SEAR,South-East Asia,Country,BGD,Bangladesh,Year,2011,false,,,,,,,,,,,,,51773,,,,,,51 773,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,WPR,Western Pacific,Country,MYS,Malaysia,Year,2011,false,,,,,,,,,,,,,5306,,,,,,5306,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,SWZ,Eswatini,Year,2011,false,,,,,,,,,,,,,549,,,,,,549,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,WPR,Western Pacific,Country,VUT,Vanuatu,Year,2011,false,,,,,,,,,,,,,6179,,,,,,6179,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,SLE,Sierra Leone,Year,2011,false,,,,,,,,,,,,,638859,,,,,,638 859,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AMR,Americas,Country,COL,Colombia,Year,2011,false,,,,,,,,,,,,,64436,,,,,,64 436,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AMR,Americas,Country,GTM,Guatemala,Year,2011,false,,,,,,,,,,,,,6817,,,,,,6817,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,GNB,Guinea-Bissau,Year,2011,false,,,,,,,,,,,,,71982,,,,,,71 982,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AMR,Americas,Country,BOL,Bolivia (Plurinational State of),Year,2011,false,,,,,,,,,,,,,7143,,,,,,7143,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AMR,Americas,Country,HND,Honduras,Year,2011,false,,,,,,,,,,,,,7618,,,,,,7618,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,EMR,Eastern Mediterranean,Country,AFG,Afghanistan,Year,2011,false,,,,,,,,,,,,,77549,,,,,,77 549,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AMR,Americas,Country,BLZ,Belize,Year,2011,false,,,,,,,,,,,,,79,,,,,,79,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AMR,Americas,Country,SUR,Suriname,Year,2011,false,,,,,,,,,,,,,795,,,,,,795,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,EUR,Europe,Country,AZE,Azerbaijan,Year,2011,false,,,,,,,,,,,,,8,,,,,,8,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,WPR,Western Pacific,Country,KOR,Republic of Korea,Year,2011,false,,,,,,,,,,,,,838,,,,,,838,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,NER,Niger,Year,2011,false,,,,,,,,,,,,,838585,,,,,,838 585,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,WPR,Western Pacific,Country,PNG,Papua New Guinea,Year,2011,false,,,,,,,,,,,,,84060,,,,,,84 060,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,STP,Sao Tome and Principe,Year,2011,false,,,,,,,,,,,,,8442,,,,,,8442,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,EMR,Eastern Mediterranean,Country,YEM,Yemen,Year,2011,false,,,,,,,,,,,,,90954,,,,,,90 954,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AMR,Americas,Country,NIC,Nicaragua,Year,2011,false,,,,,,,,,,,,,925,,,,,,925,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,GIN,Guinea,Year,2011,false,,,,,,,,,,,,,95574,,,,,,95 574,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,WPR,Western Pacific,Country,PHL,Philippines,Year,2011,false,,,,,,,,,,,,,9583,,,,,,9583,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,ZAF,South Africa,Year,2011,false,,,,,,,,,,,,,9866,,,,,,9866,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,EUR,Europe,Country,GEO,Georgia,Year,2010,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,EUR,Europe,Country,ARM,Armenia,Year,2010,false,,,,,,,,,,,,,1,,,,,,1,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,TGO,Togo,Year,2010,false,,,,,,,,,,,,,1019029,,,,,,1 019 029,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,GHA,Ghana,Year,2010,false,,,,,,,,,,,,,1071637,,,,,,1 071 637,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,ETH,Ethiopia,Year,2010,false,,,,,,,,,,,,,1196829,,,,,,1 196 829,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,TZA,United Republic of Tanzania,Year,2010,false,,,,,,,,,,,,,1279362,,,,,,1 279 362,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,MOZ,Mozambique,Year,2010,false,,,,,,,,,,,,,1522577,,,,,,1 522 577,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,SEAR,South-East Asia,Country,IND,India,Year,2010,false,,,,,,,,,,,,,1599986,,,,,,1 599 986,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,UGA,Uganda,Year,2010,false,,,,,,,,,,,,,1628595,,,,,,1 628 595,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,AGO,Angola,Year,2010,false,,,,,,,,,,,,,1682870,,,,,,1 682 870,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,BDI,Burundi,Year,2010,false,,,,,,,,,,,,,1763447,,,,,,1 763 447,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,EMR,Eastern Mediterranean,Country,DJI,Djibouti,Year,2010,false,,,,,,,,,,,,,1010,,,,,,1010,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,BWA,Botswana,Year,2010,false,,,,,,,,,,,,,1046,,,,,,1046,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,EMR,Eastern Mediterranean,Country,YEM,Yemen,Year,2010,false,,,,,,,,,,,,,106697,,,,,,106 697,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AMR,Americas,Country,ARG,Argentina,Year,2010,false,,,,,,,,,,,,,109,,,,,,109,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AMR,Americas,Country,CRI,Costa Rica,Year,2010,false,,,,,,,,,,,,,114,,,,,,114,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,EUR,Europe,Country,TJK,Tajikistan,Year,2010,false,,,,,,,,,,,,,116,,,,,,116,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,GMB,Gambia,Year,2010,false,,,,,,,,,,,,,116353,,,,,,116 353,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AMR,Americas,Country,COL,Colombia,Year,2010,false,,,,,,,,,,,,,117650,,,,,,117 650,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AMR,Americas,Country,MEX,Mexico,Year,2010,false,,,,,,,,,,,,,1233,,,,,,1233,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,SEAR,South-East Asia,Country,PRK,Democratic People's Republic of Korea,Year,2010,false,,,,,,,,,,,,,13520,,,,,,13 520,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AMR,Americas,Country,BOL,Bolivia (Plurinational State of),Year,2010,false,,,,,,,,,,,,,13769,,,,,,13 769,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,GAB,Gabon,Year,2010,false,,,,,,,,,,,,,13936,,,,,,13 936,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AMR,Americas,Country,BLZ,Belize,Year,2010,false,,,,,,,,,,,,,150,,,,,,150,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,WPR,Western Pacific,Country,VNM,Viet Nam,Year,2010,false,,,,,,,,,,,,,17515,,,,,,17 515,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AMR,Americas,Country,SUR,Suriname,Year,2010,false,,,,,,,,,,,,,1771,,,,,,1771,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,WPR,Western Pacific,Country,KOR,Republic of Korea,Year,2010,false,,,,,,,,,,,,,1772,,,,,,1772,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AMR,Americas,Country,ECU,Ecuador,Year,2010,false,,,,,,,,,,,,,1888,,,,,,1888,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,WPR,Western Pacific,Country,PHL,Philippines,Year,2010,false,,,,,,,,,,,,,19102,,,,,,19 102,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,EMR,Eastern Mediterranean,Country,SAU,Saudi Arabia,Year,2010,false,,,,,,,,,,,,,1941,,,,,,1941,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,MRT,Mauritania,Year,2010,false,,,,,,,,,,,,,1994,,,,,,1994,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,COD,Democratic Republic of the Congo,Year,2010,false,,,,,,,,,,,,,2417780,,,,,,2 417 780,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,GIN,Guinea,Year,2010,false,,,,,,,,,,,,,20936,,,,,,20 936,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,TCD,Chad,Year,2010,false,,,,,,,,,,,,,200448,,,,,,200 448,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,MDG,Madagascar,Year,2010,false,,,,,,,,,,,,,202450,,,,,,202 450,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,WPR,Western Pacific,Country,LAO,Lao People's Democratic Republic,Year,2010,false,,,,,,,,,,,,,22879,,,,,,22 879,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AMR,Americas,Country,GUY,Guyana,Year,2010,false,,,,,,,,,,,,,22935,,,,,,22 935,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,MLI,Mali,Year,2010,false,,,,,,,,,,,,,239787,,,,,,239 787,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,EMR,Eastern Mediterranean,Country,SOM,Somalia,Year,2010,false,,,,,,,,,,,,,24833,,,,,,24 833,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,EMR,Eastern Mediterranean,Country,PAK,Pakistan,Year,2010,false,,,,,,,,,,,,,240591,,,,,,240 591,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AMR,Americas,Country,DOM,Dominican Republic,Year,2010,false,,,,,,,,,,,,,2482,,,,,,2482,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,ZWE,Zimbabwe,Year,2010,false,,,,,,,,,,,,,249379,,,,,,249 379,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AMR,Americas,Country,SLV,El Salvador,Year,2010,false,,,,,,,,,,,,,26,,,,,,26,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,SWZ,Eswatini,Year,2010,false,,,,,,,,,,,,,268,,,,,,268,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,STP,Sao Tome and Principe,Year,2010,false,,,,,,,,,,,,,2740,,,,,,2740,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AMR,Americas,Country,PRY,Paraguay,Year,2010,false,,,,,,,,,,,,,29,,,,,,29,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,EMR,Eastern Mediterranean,Country,IRN,Iran (Islamic Republic of),Year,2010,false,,,,,,,,,,,,,3031,,,,,,3031,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AMR,Americas,Country,PER,Peru,Year,2010,false,,,,,,,,,,,,,31545,,,,,,31 545,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,SEAR,South-East Asia,Country,THA,Thailand,Year,2010,false,,,,,,,,,,,,,32480,,,,,,32 480,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,SEN,Senegal,Year,2010,false,,,,,,,,,,,,,330331,,,,,,330 331,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AMR,Americas,Country,BRA,Brazil,Year,2010,false,,,,,,,,,,,,,334667,,,,,,334 667,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,ERI,Eritrea,Year,2010,false,,,,,,,,,,,,,35982,,,,,,35 982,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,COM,Comoros,Year,2010,false,,,,,,,,,,,,,36538,,,,,,36 538,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,SEAR,South-East Asia,Country,NPL,Nepal,Year,2010,false,,,,,,,,,,,,,3894,,,,,,3894,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,WPR,Western Pacific,Country,SLB,Solomon Islands,Year,2010,false,,,,,,,,,,,,,39704,,,,,,39 704,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,DZA,Algeria,Year,2010,false,,,,,,,,,,,,,408,,,,,,408,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AMR,Americas,Country,PAN,Panama,Year,2010,false,,,,,,,,,,,,,418,,,,,,418,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,SEAR,South-East Asia,Country,MMR,Myanmar,Year,2010,false,,,,,,,,,,,,,420808,,,,,,420 808,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,SEAR,South-East Asia,Country,BTN,Bhutan,Year,2010,false,,,,,,,,,,,,,436,,,,,,436,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AMR,Americas,Country,VEN,Venezuela (Bolivarian Republic of),Year,2010,false,,,,,,,,,,,,,45155,,,,,,45 155,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,SEAR,South-East Asia,Country,IDN,Indonesia,Year,2010,false,,,,,,,,,,,,,465764,,,,,,465 764,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,CPV,Cabo Verde,Year,2010,false,,,,,,,,,,,,,47,,,,,,47,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,SEAR,South-East Asia,Country,TLS,Timor-Leste,Year,2010,false,,,,,,,,,,,,,48137,,,,,,48 137,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,EUR,Europe,Country,UZB,Uzbekistan,Year,2010,false,,,,,,,,,,,,,5,,,,,,5,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,GNB,Guinea-Bissau,Year,2010,false,,,,,,,,,,,,,50391,,,,,,50 391,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,EUR,Europe,Country,AZE,Azerbaijan,Year,2010,false,,,,,,,,,,,,,52,,,,,,52,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,GNQ,Equatorial Guinea,Year,2010,false,,,,,,,,,,,,,53813,,,,,,53 813,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,SEAR,South-East Asia,Country,BGD,Bangladesh,Year,2010,false,,,,,,,,,,,,,55873,,,,,,55 873,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,NGA,Nigeria,Year,2010,false,,,,,,,,,,,,,551187,,,,,,551 187,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,NAM,Namibia,Year,2010,false,,,,,,,,,,,,,556,,,,,,556,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,EUR,Europe,Country,KGZ,Kyrgyzstan,Year,2010,false,,,,,,,,,,,,,6,,,,,,6,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,CIV,Côte d’Ivoire,Year,2010,false,,,,,,,,,,,,,62726,,,,,,62 726,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,NER,Niger,Year,2010,false,,,,,,,,,,,,,642774,,,,,,642 774,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,WPR,Western Pacific,Country,MYS,Malaysia,Year,2010,false,,,,,,,,,,,,,6650,,,,,,6650,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,RWA,Rwanda,Year,2010,false,,,,,,,,,,,,,669322,,,,,,669 322,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,EMR,Eastern Mediterranean,Country,AFG,Afghanistan,Year,2010,false,,,,,,,,,,,,,69798,,,,,,69 798,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AMR,Americas,Country,NIC,Nicaragua,Year,2010,false,,,,,,,,,,,,,692,,,,,,692,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,WPR,Western Pacific,Country,CHN,China,Year,2010,false,,,,,,,,,,,,,7108,,,,,,7108,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,EMR,Eastern Mediterranean,Country,SDN,Sudan,Year,2010,false,,,,,,,,,,,,,720557,,,,,,720 557,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,SEAR,South-East Asia,Country,LKA,Sri Lanka,Year,2010,false,,,,,,,,,,,,,736,,,,,,736,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AMR,Americas,Country,GTM,Guatemala,Year,2010,false,,,,,,,,,,,,,7384,,,,,,7384,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,BFA,Burkina Faso,Year,2010,false,,,,,,,,,,,,,804539,,,,,,804 539,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,ZAF,South Africa,Year,2010,false,,,,,,,,,,,,,8060,,,,,,8060,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,EUR,Europe,Country,TUR,Türkiye,Year,2010,false,,,,,,,,,,,,,81,,,,,,81,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AMR,Americas,Country,HTI,Haiti,Year,2010,false,,,,,,,,,,,,,84153,,,,,,84 153,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,KEN,Kenya,Year,2010,false,,,,,,,,,,,,,898531,,,,,,898 531,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,SSD,South Sudan,Year,2010,false,,,,,,,,,,,,,900283,,,,,,900 283,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,LBR,Liberia,Year,2010,false,,,,,,,,,,,,,922173,,,,,,922 173,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,WPR,Western Pacific,Country,PNG,Papua New Guinea,Year,2010,false,,,,,,,,,,,,,93956,,,,,,93 956,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AFR,Africa,Country,SLE,Sierra Leone,Year,2010,false,,,,,,,,,,,,,934028,,,,,,934 028,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,WPR,Western Pacific,Country,KHM,Cambodia,Year,2010,false,,,,,,,,,,,,,96464,,,,,,96 464,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,AMR,Americas,Country,HND,Honduras,Year,2010,false,,,,,,,,,,,,,9745,,,,,,9745,,,EN,2022-02-10T05:00:00.000Z
+MALARIA_CONF_CASES,Number of confirmed malaria cases,numeric,WPR,Western Pacific,Country,VUT,Vanuatu,Year,2010,false,,,,,,,,,,,,,9817,,,,,,9817,,,EN,2022-02-10T05:00:00.000Z
