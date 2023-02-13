@@ -7,6 +7,10 @@ import tensorflow.keras
 
 st.title('Model Prediction')
 
+st.write('1. Click "Browse files" and select desired image')
+st.write('2. Upload the image by clicking "Submit Image"')
+st.write('3. If you are satisfied with your image click "Make Prediction"')
+
 @st.cache_resource()
 def load_model():
     with st.spinner('Loading Model...'):

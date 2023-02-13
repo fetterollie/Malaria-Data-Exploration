@@ -21,3 +21,12 @@ I have also brought in auxiliary data that *is not* used in the modeling process
 
 (To access the data in CSV format, navigate to the data panel and right click the `EXPORT DATA in CSV format:` link and save link.)
 '''
+
+st.image('images/conf_case_by_year.jpeg')
+
+st.image('images/map_conf_cases.jpeg')
+
+st.image('images/est_case_by_year.jpeg')
+
+st.image('images/est_death_by_year.jpeg')
+
