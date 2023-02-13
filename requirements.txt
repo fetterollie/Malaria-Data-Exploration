@@ -1,6 +1,6 @@
 absl-py==1.4.0
 altair==4.2.2
-anyio @ file:///home/conda/feedstock_root/build_artifacts/anyio_1666191106763/work/dist
+# anyio @ file:///home/conda/feedstock_root/build_artifacts/anyio_1666191106763/work/dist
 appdirs @ file:///home/conda/feedstock_root/build_artifacts/appdirs_1603108395799/work
 appnope @ file:///home/conda/feedstock_root/build_artifacts/appnope_1649077682618/work
 argon2-cffi @ file:///home/conda/feedstock_root/build_artifacts/argon2-cffi_1640817743617/work
