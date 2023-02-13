@@ -170,6 +170,7 @@ tensorflow-estimator==2.11.0
 tensorflow-io-gcs-filesystem==0.30.0
 # tensorflow-macos==2.11.0
 # tensorflow-metal==0.7.1
+tensorflow==2.11.0
 termcolor==2.2.0
 # terminado @ file:///Users/runner/miniforge3/conda-bld/terminado_1670254106711/work
 text-unidecode==1.3
