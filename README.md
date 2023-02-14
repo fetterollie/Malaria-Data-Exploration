@@ -1,6 +1,6 @@
+![header](images/header.jpeg)
 # Predicting Malaria in Blood Cells
 **Author:** [Jonathan Fetterolf]()
-![header](images/header.jpeg)
 ## Business Understanding
 According to the latest [World Malaria Report](https://www.who.int/publications/i/item/9789240064898) published by the [World Health Organization](https://www.who.int/news-room/fact-sheets/detail/malaria), there were 247 million cases of malaria in 2021 compared to 245 million cases in 2020. The estimated number of malaria deaths stood at 619,000 in 2021 compared to 625,000 in 2020. An early diagnosis and subsequently early treatment of malaria will help doctors practicing in araea with high rates of malaria infection and malaria deaths. Four African countries accounted for over half of all malaria deaths worldwide: Nigeria (31.3%), the Democratic Republic of the Congo (12.6%), United Republic of Tanzania (4.1%) and Niger (3.9%). 
 
