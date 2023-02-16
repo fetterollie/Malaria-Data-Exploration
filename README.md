@@ -43,7 +43,7 @@ Using this data augmentation will help avoid overfitting by creating unseen trai
 The data I use for this problem is evenly balanced. A baseline model, choosing all cells to 'Uninfected' results in an accuracy of 50%. 
 
 ## Convolutional Neural Network
-I build and train a Convolutional Neural Network (CNN) for this problem because it effectively learns from spatial features in images such as edges, corners, and textures. The CNN classifies the images based on these features and is typically very successful in image classification problems like this. 
+I decided to build and train a Convolutional Neural Network (CNN) for this problem because it effectively learns from spatial features in images such as edges, corners, and textures. The CNN classifies the images based on these features and is typically very successful in image classification problems like this. 
 
 ### Model 1
 Parameters
