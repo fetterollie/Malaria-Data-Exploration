@@ -22,7 +22,7 @@ st.sidebar.write('''[GitHub](https://github.com/fetterollie)''')
 #li_button = st.sidebar.button('LinkedIn')
 #if li_button:    
 #   webbrowser.open_new_tab(https://www.linkedin.com/in/jonathanfetterolf/)
-st.sidebar.write('''[LinkedIn](https://dev.to/fetterollie)''')
+st.sidebar.write('''[LinkedIn](https://www.linkedin.com/in/jonathanfetterolf/)''')
 #dt_button = st.sidebar.button('Blog')
 #if dt_button:
 #    webbrowser.open_new_tab(https://dev.to/fetterollie)
