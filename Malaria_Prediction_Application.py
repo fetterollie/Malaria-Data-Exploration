@@ -17,19 +17,19 @@ st.sidebar.header('Contact Info')
 #gh_button = st.sidebar.button('GitHub')
 #if gh_button:    
 #    webbrowser.open_new_tab(https://github.com/fetterollie)
-st.sidebar.write(['GitHub'](https://github.com/fetterollie))
+st.sidebar.write('''['GitHub'](https://github.com/fetterollie)''')
 #li_button = st.sidebar.button('LinkedIn')
 #if li_button:    
 #   webbrowser.open_new_tab(https://www.linkedin.com/in/jonathanfetterolf/)
-st.sidebar.write(['LinkedIn'](https://dev.to/fetterollie))
+st.sidebar.write('''['LinkedIn'](https://dev.to/fetterollie)''')
 #dt_button = st.sidebar.button('Blog')
 #if dt_button:
 #    webbrowser.open_new_tab(https://dev.to/fetterollie)
-st.sidebar.write(['Blog'](https://dev.to/fetterollie))
+st.sidebar.write('''['Blog'](https://dev.to/fetterollie)''')
 #tw_button = st.sidebar.button('Twitter')
 #if tw_button:    
 #    webbrowser.open_new_tab(https://twitter.com/fetterollie)
-st.sidebar.write(['Twitter'](https://twitter.com/fetterollie))
+st.sidebar.write('''['Twitter'](https://twitter.com/fetterollie)''')
 
 st.title('Malaria Prediction Application')
 st.image('images/mal_cells.jpg', use_column_width='always')
