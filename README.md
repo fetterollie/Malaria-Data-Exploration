@@ -2,7 +2,7 @@
 # Predicting Malaria in Blood Cells
 **Author:** [Jonathan Fetterolf](mailto:jonathan.fetterolf@gmail.com)
 
-[Malaria Prediction Web Application](https://fetterollie-malaria-data--malaria-prediction-application-6xmhnn.streamlit.app/)
+[Malaria Prediction Web Application](https://fetterollie-ma-applicationmalaria-prediction-application-dc1w0r.streamlit.app/)
 
 [Presentation Slides](https://github.com/fetterollie/Malaria-Data-Exploration/blob/880b23a1f814036f44a30f779c4828f46d2ff321/predicting_malaria_slides.pdfef)
 ## Business Understanding
