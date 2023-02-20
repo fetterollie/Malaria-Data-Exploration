@@ -5,6 +5,9 @@
 [Malaria Prediction Web Application](https://fetterollie-ma-applicationmalaria-prediction-application-dc1w0r.streamlit.app/)
 
 [Presentation Slides](https://github.com/fetterollie/Malaria-Data-Exploration/blob/880b23a1f814036f44a30f779c4828f46d2ff321/predicting_malaria_slides.pdfef)
+
+**Important Note:** The main part of this notebook, [Predicting_Malaria.ipynb](https://github.com/fetterollie/Malaria-Data-Exploration/blob/1b4583e5e5981213ee770e390daaff93d67b0913/Predicting_Malaria.ipynb) was run and executed in Google Colaboratory. There are instructions to recreate the notebook in that file.
+
 ## Business Understanding
 According to the latest [World Malaria Report](https://www.who.int/publications/i/item/9789240064898) published by the [World Health Organization](https://www.who.int/news-room/fact-sheets/detail/malaria), there were 247 million cases of malaria in 2021 compared to 245 million cases in 2020. The estimated number of malaria deaths stood at 619,000 in 2021 compared to 625,000 in 2020. An early diagnosis and subsequently early treatment of malaria will help doctors practicing in areas with high rates of malaria infection and malaria deaths. Four African countries accounted for over half of all malaria deaths worldwide: Nigeria (31.3%), the Democratic Republic of the Congo (12.6%), United Republic of Tanzania (4.1%) and Niger (3.9%). 
 ![Countries with Most Confirmed Cases](https://github.com/fetterollie/Malaria-Data-Exploration/blob/0663f35b815dc2dafb7a0347ec7466f8991ec05c/images/map_conf_cases.jpeg)
