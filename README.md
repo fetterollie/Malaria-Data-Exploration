@@ -115,10 +115,19 @@ Parameters
 - Total params: `6,479,873`
 - Trainable params: `6,479,873`
 - Non-trainable params: `0`
-## Results/Conclusion
-Tested with 2,700 images with results of: 
+
+### Results
+Tested with 2,700 unseen images with results of: 
 - Accuracy:0.9655172228813171
 - Precision:0.9766213893890381
 - Recall:0.9536082744598389
 
 ## Futher Exploration / Next Steps
+- I would like to collect more data and retrain the model.
+- Create a new feature for the application.
+This will allow the user to submit an image of an entire blood smear with many blood cells, split that image into separate images of individual cells that can be used as input to the model.
+- The model will now be able to deliver estimated parasitic burden which is used by clinicians to make decisions regarding treatment for malaria cases.
+
+## Conclusion
+This new tool will rapidly and accurately diagnose potential cases of Malaria, estimate parasitic burden, and will allow for the early treatment of more malaria cases, greatly reducing community transmission and saving lives around the world.
+
