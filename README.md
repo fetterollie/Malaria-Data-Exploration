@@ -146,3 +146,33 @@ This will allow the user to submit an image of an entire blood smear with many b
 ## Conclusion
 This new tool will rapidly and accurately diagnose potential cases of Malaria, estimate parasitic burden, and will allow for the early treatment of more malaria cases, greatly reducing community transmission and saving lives around the world.
 
+
+```
+├── application
+│   ├── pages
+│   │   ├── 2_Data_Summary.py
+│   │   ├── 3_Model_Prediction.py
+│   ├── model5.h5
+│   └── requirements.txt
+├── data
+│   ├── Unseen Data
+│   ├── confirmed_cases_malaria.csv
+│   ├── estimated_cases_malaria.csv
+│   └── estimated_deaths_malaria.csv
+├── images
+│   ├── conf_case_by_year.jpeg
+│   ├── est_case_by_year.jpeg
+│   ├── est_death_by_year.jpeg
+│   ├── example_data.jpeg
+│   ├── header.jpeg
+│   ├── image_augmentation.jpeg
+│   ├── jf.jpeg
+│   ├── mal_cells.jpg
+│   └── map_conf_cases.jpeg
+├── .gitignore
+├── LICENSE
+├── Predicting_Malaria.ipynb
+├── README.md
+├── auxiliary_data.ipynb
+└── predicting_malaria_slides.pdf
+```
