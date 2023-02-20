@@ -11,6 +11,9 @@ According to the latest [World Malaria Report](https://www.who.int/publications/
 
 ### Business Problem
 The [WHO | Regional Office for Africa](https://www.afro.who.int/health-topics/malaria) recognizes that malaria is going undiagnosed and subsequently untreated in areas where the parasite is prevalent and the resources to diagnose and treat it are the lowest. The WHO wants to create a model that can accurately predict whether or not a cell from stained blood smear is infected with malaria in order to more effectively diagnose and treat malaria in the population. 
+
+(*Auxiliary data exploration can be found in [this](https://github.com/fetterollie/Malaria-Data-Exploration/blob/5a280579a4823b57c7d9f0e5ab53ad5794c83f7c/auxiliary_data.ipynb) notebook.*)
+
 ![Estimated Cases by Year](https://github.com/fetterollie/Malaria-Data-Exploration/blob/0663f35b815dc2dafb7a0347ec7466f8991ec05c/images/est_case_by_year.jpeg)
 ![Estimated Deaths by Year](https://github.com/fetterollie/Malaria-Data-Exploration/blob/0663f35b815dc2dafb7a0347ec7466f8991ec05c/images/est_death_by_year.jpeg)
 
